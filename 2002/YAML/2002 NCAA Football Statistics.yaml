@@ -1,0 +1,5225 @@
+- conference: Mountain West
+  defense:
+    drives: 9
+    explosiveness: 0.7842163698350733
+    fieldPosition:
+      averagePredictedPoints: -1.945
+      averageStart: 63.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.5
+    lineYardsTotal: 80
+    openFieldYards: 0.1875
+    openFieldYardsTotal: 6
+    passingDowns:
+      explosiveness: 1.4549011749021443
+      ppa: -0.2379638605983734
+      rate: 0.23333333333333334
+      successRate: 0.21428571428571427
+      totalPPA: 6.602521274046615
+    passingPlays:
+      explosiveness: 1.2261968276985542
+      ppa: 0.2539431259248698
+      rate: 0.43333333333333335
+      successRate: 0.5
+    plays: 60
+    pointsPerOpportunity: 0
+    powerSuccess: 0.8
+    ppa: -0.012989655452815578
+    rushingPlays:
+      explosiveness: 0.34223591197159237
+      ppa: -0.1619142961513538
+      rate: 0.5333333333333333
+      successRate: 0.40625
+      totalPPA: -5.181257476843322
+    secondLevelYards: 0.46875
+    secondLevelYardsTotal: 15
+    standardDowns:
+      explosiveness: 0.6967357430871944
+      ppa: 0.05548075480887593
+      rate: 0.7666666666666667
+      successRate: 0.5
+    stuffRate: 0.21875
+    successRate: 0.43333333333333335
+    totalOpportunies: 11
+    totalPPA: -0.7793793271689347
+  offense:
+    drives: 11
+    explosiveness: 1.3494877726616668
+    fieldPosition:
+      averagePredictedPoints: 1.402
+      averageStart: 69.9
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.023076923076923
+    lineYardsTotal: 157
+    openFieldYards: 0.4230769230769231
+    openFieldYardsTotal: 22
+    passingDowns:
+      explosiveness: 2.697998060932173
+      ppa: -0.12050267779618841
+      rate: 0.38666666666666666
+      successRate: 0.13793103448275862
+    passingPlays:
+      explosiveness: 2.7296047686579663
+      ppa: -0.23317390014549136
+      rate: 0.25333333333333335
+      successRate: 0.15789473684210525
+      totalPPA: -4.430304102764335
+    plays: 75
+    pointsPerOpportunity: 0
+    powerSuccess: 0.6666666666666666
+    ppa: -0.1055871844993096
+    rushingPlays:
+      explosiveness: 1.1059377145446727
+      ppa: 0.07030590068427517
+      rate: 0.6933333333333334
+      successRate: 0.3269230769230769
+      totalPPA: 3.655906835582309
+    secondLevelYards: 0.8846153846153846
+    secondLevelYardsTotal: 46
+    standardDowns:
+      explosiveness: 1.01236020059404
+      ppa: -0.09618393872519035
+      rate: 0.6133333333333333
+      successRate: 0.34782608695652173
+    stuffRate: 0.17307692307692307
+    successRate: 0.26666666666666666
+    totalOpportunies: 10
+    totalPPA: -7.91903883744822
+  season: 2002
+  team: Air Force
+- conference: Pac-12
+  defense:
+    drives: 16
+    explosiveness: 1.1370683560552222
+    fieldPosition:
+      averagePredictedPoints: -0.804
+      averageStart: 79.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.7125
+    lineYardsTotal: 109
+    openFieldYards: 0.725
+    openFieldYardsTotal: 29
+    passingDowns:
+      explosiveness: 1.9756676167478737
+      ppa: 0.31843016421717407
+      rate: 0.36486486486486486
+      successRate: 0.25925925925925924
+      totalPPA: 10.727457952728413
+    passingPlays:
+      explosiveness: 2.096699783470629
+      ppa: 0.3699123431975315
+      rate: 0.3918918918918919
+      successRate: 0.3103448275862069
+    plays: 74
+    pointsPerOpportunity: 0
+    powerSuccess: 0.75
+    ppa: 0.10816865019324573
+    rushingPlays:
+      explosiveness: 0.6290281886000066
+      ppa: -0.013414566238123607
+      rate: 0.5405405405405406
+      successRate: 0.425
+      totalPPA: -0.5365826495249443
+    secondLevelYards: 0.7
+    secondLevelYardsTotal: 28
+    standardDowns:
+      explosiveness: 0.8281107336947715
+      ppa: -0.012619879139649296
+      rate: 0.6351351351351351
+      successRate: 0.40425531914893614
+    stuffRate: 0.2
+    successRate: 0.35135135135135137
+    totalOpportunies: 11
+    totalPPA: 8.004480114300184
+  offense:
+    drives: 16
+    explosiveness: 1.1842345407781105
+    fieldPosition:
+      averagePredictedPoints: 2.43
+      averageStart: 56.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.0227272727272727
+    lineYardsTotal: 23
+    openFieldYards: 0
+    openFieldYardsTotal: null
+    passingDowns:
+      explosiveness: 1.7004190917426891
+      ppa: -0.08530953914166003
+      rate: 0.43902439024390244
+      successRate: 0.2222222222222222
+    passingPlays:
+      explosiveness: 1.464899531387904
+      ppa: -0.09025749125118235
+      rate: 0.7195121951219512
+      successRate: 0.288135593220339
+      totalPPA: -5.325191983819758
+    plays: 82
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.1832023964298416
+    rushingPlays:
+      explosiveness: 0.5026195635828978
+      ppa: -0.4350291820968235
+      rate: 0.2682926829268293
+      successRate: 0.3181818181818182
+      totalPPA: -9.570642006130118
+    secondLevelYards: 0.5454545454545454
+    secondLevelYardsTotal: 12
+    standardDowns:
+      explosiveness: 0.9261422652958212
+      ppa: -0.2598141977858098
+      rate: 0.5609756097560976
+      successRate: 0.34782608695652173
+    stuffRate: 0.4090909090909091
+    successRate: 0.2926829268292683
+    totalOpportunies: 14
+    totalPPA: -15.02259650724701
+  season: 2002
+  team: Arizona State
+- conference: SEC
+  defense:
+    drives: 13
+    explosiveness: 1.2037709217360095
+    fieldPosition:
+      averagePredictedPoints: -2.047
+      averageStart: 62.2
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.558139534883721
+    lineYardsTotal: 110
+    openFieldYards: 0.046511627906976744
+    openFieldYardsTotal: 2
+    passingDowns:
+      explosiveness: 0.8324704381476772
+      ppa: -0.14355743525852854
+      rate: 0.36585365853658536
+      successRate: 0.23333333333333334
+      totalPPA: 3.755344374211568
+    passingPlays:
+      explosiveness: 1.4759712205430489
+      ppa: 0.11379831437004752
+      rate: 0.4024390243902439
+      successRate: 0.3939393939393939
+    plays: 82
+    pointsPerOpportunity: 0
+    powerSuccess: 0.5
+    ppa: -0.06403568234126109
+    rushingPlays:
+      explosiveness: 0.8499105332868584
+      ppa: -0.12129530219541382
+      rate: 0.524390243902439
+      successRate: 0.23255813953488372
+      totalPPA: -5.215697994402794
+    secondLevelYards: 0.6046511627906976
+    secondLevelYardsTotal: 26
+    standardDowns:
+      explosiveness: 1.366214883305905
+      ppa: -0.018157747965914475
+      rate: 0.6341463414634146
+      successRate: 0.3076923076923077
+    stuffRate: 0.23255813953488372
+    successRate: 0.2804878048780488
+    totalOpportunies: 11
+    totalPPA: -5.250925951983409
+  offense:
+    drives: 12
+    explosiveness: 1.1195504890659222
+    fieldPosition:
+      averagePredictedPoints: 1.155
+      averageStart: 72.7
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.8275862068965516
+    lineYardsTotal: 53
+    openFieldYards: 0.5517241379310345
+    openFieldYardsTotal: 16
+    passingDowns:
+      explosiveness: 1.2606836598008184
+      ppa: 0.1685185135102006
+      rate: 0.4492753623188406
+      successRate: 0.3870967741935484
+    passingPlays:
+      explosiveness: 1.2082873872136317
+      ppa: -0.0479257306008861
+      rate: 0.5797101449275363
+      successRate: 0.375
+      totalPPA: -1.9170292240354438
+    plays: 69
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.1170424727306458
+    rushingPlays:
+      explosiveness: 0.9531688050389667
+      ppa: -0.21237591015100402
+      rate: 0.42028985507246375
+      successRate: 0.27586206896551724
+      totalPPA: -6.158901394379116
+    secondLevelYards: 0.6896551724137931
+    secondLevelYardsTotal: 20
+    standardDowns:
+      explosiveness: 0.9655870300823989
+      ppa: -0.35000011940081
+      rate: 0.5507246376811594
+      successRate: 0.2894736842105263
+    stuffRate: 0.3103448275862069
+    successRate: 0.3333333333333333
+    totalOpportunies: 13
+    totalPPA: -8.07593061841456
+  season: 2002
+  team: Arkansas
+- conference: SEC
+  defense:
+    drives: 12
+    explosiveness: 1.1000036000741973
+    fieldPosition:
+      averagePredictedPoints: -1.338
+      averageStart: 70.7
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.2897435897435896
+    lineYardsTotal: 89
+    openFieldYards: 1.3076923076923077
+    openFieldYardsTotal: 51
+    passingDowns:
+      explosiveness: 1.9965301458887812
+      ppa: 0.5059828526694333
+      rate: 0.3380281690140845
+      successRate: 0.2916666666666667
+      totalPPA: -3.5922178258843847
+    passingPlays:
+      explosiveness: 1.099720511490938
+      ppa: -0.12829349378158517
+      rate: 0.39436619718309857
+      successRate: 0.21428571428571427
+    plays: 71
+    pointsPerOpportunity: 0
+    powerSuccess: 0.6666666666666666
+    ppa: -0.04671367182189886
+    rushingPlays:
+      explosiveness: 1.1001249237527368
+      ppa: 0.08262515734078166
+      rate: 0.5492957746478874
+      successRate: 0.358974358974359
+      totalPPA: 3.2223811362904846
+    secondLevelYards: 1.0769230769230769
+    secondLevelYardsTotal: 42
+    standardDowns:
+      explosiveness: 0.6172585369432675
+      ppa: -0.32894168432811105
+      rate: 0.6619718309859155
+      successRate: 0.2765957446808511
+    stuffRate: 0.3333333333333333
+    successRate: 0.28169014084507044
+    totalOpportunies: 9
+    totalPPA: -3.316670699354819
+  offense:
+    drives: 11
+    explosiveness: 0.6392233323915212
+    fieldPosition:
+      averagePredictedPoints: 1.78
+      averageStart: 65
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.1955555555555555
+    lineYardsTotal: 144
+    openFieldYards: 0.6444444444444445
+    openFieldYardsTotal: 29
+    passingDowns:
+      explosiveness: 1.0978565631215464
+      ppa: 0.12458185113952863
+      rate: 0.2753623188405797
+      successRate: 0.3684210526315789
+    passingPlays:
+      explosiveness: 0.739274661469266
+      ppa: -0.35791646780524494
+      rate: 0.3188405797101449
+      successRate: 0.3181818181818182
+      totalPPA: -7.874162291715388
+    plays: 69
+    pointsPerOpportunity: 0
+    powerSuccess: 0.625
+    ppa: -0.14942536436738782
+    rushingPlays:
+      explosiveness: 0.6042053672143104
+      ppa: -0.039215034713917955
+      rate: 0.6521739130434783
+      successRate: 0.4444444444444444
+      totalPPA: -1.764676562126308
+    secondLevelYards: 0.9777777777777777
+    secondLevelYardsTotal: 44
+    standardDowns:
+      explosiveness: 0.4787017016360123
+      ppa: -0.25354810626001606
+      rate: 0.7246376811594203
+      successRate: 0.4
+    stuffRate: 0.17777777777777778
+    successRate: 0.391304347826087
+    totalOpportunies: 9
+    totalPPA: -10.31035014134976
+  season: 2002
+  team: Auburn
+- conference: Mountain West
+  defense:
+    drives: 14
+    explosiveness: 0.9893528794937961
+    fieldPosition:
+      averagePredictedPoints: -1.418
+      averageStart: 69.2
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.241463414634146
+    lineYardsTotal: 92
+    openFieldYards: 0.21951219512195122
+    openFieldYardsTotal: 9
+    passingDowns:
+      explosiveness: 1.4972824372289992
+      ppa: -0.005169299183389142
+      rate: 0.4117647058823529
+      successRate: 0.2
+      totalPPA: -6.615849594283315
+    passingPlays:
+      explosiveness: 1.093133048685186
+      ppa: -0.16136218522642232
+      rate: 0.4823529411764706
+      successRate: 0.24390243902439024
+    plays: 85
+    pointsPerOpportunity: 0
+    powerSuccess: 0.4
+    ppa: -0.11706093923031993
+    rushingPlays:
+      explosiveness: 0.9095219801158041
+      ppa: -0.048844948470531835
+      rate: 0.4823529411764706
+      successRate: 0.3170731707317073
+      totalPPA: -2.002642887291805
+    secondLevelYards: 0.7804878048780488
+    secondLevelYardsTotal: 32
+    standardDowns:
+      explosiveness: 0.7671336979846448
+      ppa: -0.1953850872631715
+      rate: 0.5882352941176471
+      successRate: 0.32
+    stuffRate: 0.2926829268292683
+    successRate: 0.27058823529411763
+    totalOpportunies: 11
+    totalPPA: -9.950179834577195
+  offense:
+    drives: 14
+    explosiveness: 0.6864955866831898
+    fieldPosition:
+      averagePredictedPoints: 2.018
+      averageStart: 63.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.1594594594594594
+    lineYardsTotal: 80
+    openFieldYards: 0.7567567567567568
+    openFieldYardsTotal: 28
+    passingDowns:
+      explosiveness: 1.5191183964197121
+      ppa: -0.2053311072537879
+      rate: 0.2857142857142857
+      successRate: 0.15
+    passingPlays:
+      explosiveness: 1.0343449514781078
+      ppa: 0.10674142022522487
+      rate: 0.42857142857142855
+      successRate: 0.43333333333333335
+      totalPPA: 3.202242606756746
+    plays: 70
+    pointsPerOpportunity: 0
+    powerSuccess: 0.6
+    ppa: -0.08692876332810003
+    rushingPlays:
+      explosiveness: 0.4204931312517819
+      ppa: -0.213532142625178
+      rate: 0.5285714285714286
+      successRate: 0.4594594594594595
+      totalPPA: -7.900689277131586
+    secondLevelYards: 1.027027027027027
+    secondLevelYardsTotal: 38
+    standardDowns:
+      explosiveness: 0.5939819411569095
+      ppa: -0.03956782575782487
+      rate: 0.7142857142857143
+      successRate: 0.54
+    stuffRate: 0.24324324324324326
+    successRate: 0.42857142857142855
+    totalOpportunies: 9
+    totalPPA: -6.085013432967002
+  season: 2002
+  team: Boise State
+- conference: ACC
+  defense:
+    drives: 11
+    explosiveness: 1.0117000414454198
+    fieldPosition:
+      averagePredictedPoints: -1.136
+      averageStart: 73.5
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.691666666666667
+    lineYardsTotal: 65
+    openFieldYards: 0.75
+    openFieldYardsTotal: 18
+    passingDowns:
+      explosiveness: 1.1489283390339506
+      ppa: 0.23171146828493877
+      rate: 0.3333333333333333
+      successRate: 0.4090909090909091
+      totalPPA: 5.6197359185381615
+    passingPlays:
+      explosiveness: 1.0061735266446303
+      ppa: 0.13380323615567052
+      rate: 0.6363636363636364
+      successRate: 0.5
+    plays: 66
+    pointsPerOpportunity: 0
+    powerSuccess: 0.3333333333333333
+    ppa: 0.07359842586699114
+    rushingPlays:
+      explosiveness: 1.0262071427974921
+      ppa: -0.03175999213819776
+      rate: 0.36363636363636365
+      successRate: 0.3333333333333333
+      totalPPA: -0.7622398113167462
+    secondLevelYards: 1.4583333333333333
+    secondLevelYardsTotal: 35
+    standardDowns:
+      explosiveness: 0.9499473075305808
+      ppa: -0.005458095341982664
+      rate: 0.6666666666666666
+      successRate: 0.45454545454545453
+    stuffRate: 0.3333333333333333
+    successRate: 0.4393939393939394
+    totalOpportunies: 17
+    totalPPA: 4.857496107221416
+  offense:
+    drives: 11
+    explosiveness: 0.9880400437561757
+    fieldPosition:
+      averagePredictedPoints: 2.126
+      averageStart: 60.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.875
+    lineYardsTotal: 104
+    openFieldYards: 0.5277777777777778
+    openFieldYardsTotal: 19
+    passingDowns:
+      explosiveness: 1.9168643367719904
+      ppa: 0.17448320647717677
+      rate: 0.28
+      successRate: 0.2857142857142857
+    passingPlays:
+      explosiveness: 1.131084262195592
+      ppa: 0.34838288463557365
+      rate: 0.44
+      successRate: 0.5757575757575758
+      totalPPA: 11.49663519297393
+    plays: 75
+    pointsPerOpportunity: 0
+    powerSuccess: 0.75
+    ppa: 0.0630772942098113
+    rushingPlays:
+      explosiveness: 0.7615533645604331
+      ppa: -0.06422125849534702
+      rate: 0.48
+      successRate: 0.3333333333333333
+      totalPPA: -2.3119653058324925
+    secondLevelYards: 1
+    secondLevelYardsTotal: 36
+    standardDowns:
+      explosiveness: 0.7651222134323801
+      ppa: 0.01975277277250251
+      rate: 0.72
+      successRate: 0.46296296296296297
+    stuffRate: 0.19444444444444445
+    successRate: 0.41333333333333333
+    totalOpportunies: 16
+    totalPPA: 4.730797065735848
+  season: 2002
+  team: Boston College
+- conference: ACC
+  defense:
+    drives: 13
+    explosiveness: 0.8448159769284171
+    fieldPosition:
+      averagePredictedPoints: -1.803
+      averageStart: 64.7
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.32
+    lineYardsTotal: 58
+    openFieldYards: 0.52
+    openFieldYardsTotal: 13
+    passingDowns:
+      explosiveness: 2.0768173594924213
+      ppa: 0.6803142066729061
+      rate: 0.2465753424657534
+      successRate: 0.4444444444444444
+      totalPPA: 12.790655818670015
+    passingPlays:
+      explosiveness: 0.9710403916298935
+      ppa: 0.2721416131631918
+      rate: 0.6438356164383562
+      successRate: 0.5531914893617021
+    plays: 73
+    pointsPerOpportunity: 0
+    powerSuccess: 0.5714285714285714
+    ppa: 0.11462832444715947
+    rushingPlays:
+      explosiveness: 0.5713297450752182
+      ppa: -0.17172076706615944
+      rate: 0.3424657534246575
+      successRate: 0.48
+      totalPPA: -4.293019176653986
+    secondLevelYards: 1.2
+    secondLevelYardsTotal: 30
+    standardDowns:
+      explosiveness: 0.5162822749113494
+      ppa: -0.07050523700853943
+      rate: 0.7534246575342466
+      successRate: 0.5454545454545454
+    stuffRate: 0.32
+    successRate: 0.5205479452054794
+    totalOpportunies: 13
+    totalPPA: 8.367867684642642
+  offense:
+    drives: 15
+    explosiveness: 0.8816257949572467
+    fieldPosition:
+      averagePredictedPoints: 1.243
+      averageStart: 73.4
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 0.4724137931034483
+    lineYardsTotal: 14
+    openFieldYards: 0.1724137931034483
+    openFieldYardsTotal: 5
+    passingDowns:
+      explosiveness: 1.1169664317258818
+      ppa: 0.20827998753462018
+      rate: 0.39325842696629215
+      successRate: 0.45714285714285713
+    passingPlays:
+      explosiveness: 0.9768399984958119
+      ppa: -0.061373826440937876
+      rate: 0.6179775280898876
+      successRate: 0.4
+      totalPPA: -3.375560454251583
+    plays: 89
+    pointsPerOpportunity: 0
+    powerSuccess: 0.3333333333333333
+    ppa: -0.2594933349949088
+    rushingPlays:
+      explosiveness: 0.5325070486491741
+      ppa: -0.3013781684494407
+      rate: 0.3258426966292135
+      successRate: 0.20689655172413793
+      totalPPA: -8.73996688503378
+    secondLevelYards: 0.6551724137931034
+    secondLevelYardsTotal: 19
+    standardDowns:
+      explosiveness: 0.5678382792657332
+      ppa: -0.5626797477455294
+      rate: 0.6067415730337079
+      successRate: 0.2222222222222222
+    stuffRate: 0.4827586206896552
+    successRate: 0.3146067415730337
+    totalOpportunies: 15
+    totalPPA: -23.09490681454688
+  season: 2002
+  team: Clemson
+- conference: Pac-12
+  defense:
+    drives: 15
+    explosiveness: 0.7650691822250872
+    fieldPosition:
+      averagePredictedPoints: -1.813
+      averageStart: 64.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.2021276595744683
+    lineYardsTotal: 151
+    openFieldYards: 0.2978723404255319
+    openFieldYardsTotal: 14
+    passingDowns:
+      explosiveness: 2.121591579027563
+      ppa: -0.5915370583463976
+      rate: 0.3150684931506849
+      successRate: 0.17391304347826086
+      totalPPA: -7.921889381218747
+    passingPlays:
+      explosiveness: 1.7672191196468963
+      ppa: -0.3300787242174478
+      rate: 0.3287671232876712
+      successRate: 0.2916666666666667
+    plays: 73
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.18151765761832406
+    rushingPlays:
+      explosiveness: 0.46006702735758015
+      ppa: -0.0754304781887837
+      rate: 0.6438356164383562
+      successRate: 0.48936170212765956
+      totalPPA: -3.5452324748728343
+    secondLevelYards: 1.148936170212766
+    secondLevelYardsTotal: 54
+    standardDowns:
+      explosiveness: 0.5563734288708602
+      ppa: 0.007091266716589772
+      rate: 0.684931506849315
+      successRate: 0.52
+    stuffRate: 0.19148936170212766
+    successRate: 0.410958904109589
+    totalOpportunies: 12
+    totalPPA: -13.250789006137657
+  offense:
+    drives: 15
+    explosiveness: 0.8316805793789602
+    fieldPosition:
+      averagePredictedPoints: 1.542
+      averageStart: 68.6
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.0022727272727274
+    lineYardsTotal: 88
+    openFieldYards: 0.18181818181818182
+    openFieldYardsTotal: 8
+    passingDowns:
+      explosiveness: 1.1066888857771269
+      ppa: -0.12007379493607033
+      rate: 0.43548387096774194
+      successRate: 0.18518518518518517
+    passingPlays:
+      explosiveness: 0.9727109319659846
+      ppa: -0.05845192452795675
+      rate: 0.25806451612903225
+      successRate: 0.375
+      totalPPA: -0.935230792447308
+    plays: 62
+    pointsPerOpportunity: -0.7777777777777778
+    powerSuccess: 0.8
+    ppa: -0.15743405325511148
+    rushingPlays:
+      explosiveness: 0.7470623678267455
+      ppa: -0.19404481563079254
+      rate: 0.7096774193548387
+      successRate: 0.22727272727272727
+      totalPPA: -8.537971887754871
+    secondLevelYards: 0.5227272727272727
+    secondLevelYardsTotal: 23
+    standardDowns:
+      explosiveness: 0.7066768037434299
+      ppa: -0.18625482395837178
+      rate: 0.5645161290322581
+      successRate: 0.3142857142857143
+    stuffRate: 0.38636363636363635
+    successRate: 0.25806451612903225
+    totalOpportunies: 9
+    totalPPA: -9.760911301816911
+  season: 2002
+  team: Colorado
+- conference: Mountain West
+  defense:
+    drives: 14
+    explosiveness: 0.9174294779068344
+    fieldPosition:
+      averagePredictedPoints: -1.508
+      averageStart: 70.9
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.74
+    lineYardsTotal: 137
+    openFieldYards: 0.74
+    openFieldYardsTotal: 37
+    passingDowns:
+      explosiveness: 1.8430967483608203
+      ppa: 0.3140951495569118
+      rate: 0.32051282051282054
+      successRate: 0.28
+      totalPPA: 5.031274538873702
+    passingPlays:
+      explosiveness: 1.115777006734314
+      ppa: 0.19351055918745008
+      rate: 0.3333333333333333
+      successRate: 0.34615384615384615
+    plays: 78
+    pointsPerOpportunity: 0
+    powerSuccess: 0.8571428571428571
+    ppa: 0.01178022558585841
+    rushingPlays:
+      explosiveness: 0.8124219626452275
+      ppa: -0.0592985321822732
+      rate: 0.6410256410256411
+      successRate: 0.34
+      totalPPA: -2.9649266091136597
+    secondLevelYards: 1.02
+    secondLevelYardsTotal: 51
+    standardDowns:
+      explosiveness: 0.5763941677395764
+      ppa: -0.13082115364577057
+      rate: 0.6794871794871795
+      successRate: 0.3584905660377358
+    stuffRate: 0.26
+    successRate: 0.3333333333333333
+    totalOpportunies: 7
+    totalPPA: 0.918857595696956
+  offense:
+    drives: 16
+    explosiveness: 1.071802999512213
+    fieldPosition:
+      averagePredictedPoints: 1.748
+      averageStart: 66.3
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 0.703125
+    lineYardsTotal: 23
+    openFieldYards: 2.09375
+    openFieldYardsTotal: 67
+    passingDowns:
+      explosiveness: 2.2191767314826816
+      ppa: -0.3287109062602227
+      rate: 0.5076923076923077
+      successRate: 0.15151515151515152
+    passingPlays:
+      explosiveness: 0.8628152087424364
+      ppa: -0.4679730028994017
+      rate: 0.47692307692307695
+      successRate: 0.1935483870967742
+      totalPPA: -14.507163089881452
+    plays: 65
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.4229443236716407
+    rushingPlays:
+      explosiveness: 1.3225883484359446
+      ppa: -0.34169870950218373
+      rate: 0.49230769230769234
+      successRate: 0.15625
+      totalPPA: -10.93435870406988
+    secondLevelYards: 0.375
+    secondLevelYardsTotal: 12
+    standardDowns:
+      explosiveness: 0.11565822287015569
+      ppa: -0.5201225353771655
+      rate: 0.49230769230769234
+      successRate: 0.1875
+    stuffRate: 0.46875
+    successRate: 0.16923076923076924
+    totalOpportunies: 10
+    totalPPA: -27.491381038656645
+  season: 2002
+  team: Colorado State
+- conference: ACC
+  defense:
+    drives: 15
+    explosiveness: 1.1872017133755737
+    fieldPosition:
+      averagePredictedPoints: -2.484
+      averageStart: 57.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.056756756756757
+    lineYardsTotal: 113
+    openFieldYards: 1.7027027027027026
+    openFieldYardsTotal: 63
+    passingDowns:
+      explosiveness: 1.8608950995499445
+      ppa: 0.40048461063623536
+      rate: 0.35526315789473684
+      successRate: 0.2962962962962963
+      totalPPA: 8.665489848107315
+    passingPlays:
+      explosiveness: 1.653916401744854
+      ppa: 0.2407080513363143
+      rate: 0.47368421052631576
+      successRate: 0.3611111111111111
+    plays: 76
+    pointsPerOpportunity: 0
+    powerSuccess: 0
+    ppa: -0.10468066313791857
+    rushingPlays:
+      explosiveness: 0.7204870250062932
+      ppa: -0.18951968035383712
+      rate: 0.4868421052631579
+      successRate: 0.35135135135135137
+      totalPPA: -7.012228173091974
+    secondLevelYards: 0.972972972972973
+    secondLevelYardsTotal: 36
+    standardDowns:
+      explosiveness: 0.8877824306314088
+      ppa: -0.3830370384828605
+      rate: 0.6447368421052632
+      successRate: 0.3673469387755102
+    stuffRate: 0.1891891891891892
+    successRate: 0.34210526315789475
+    totalOpportunies: 14
+    totalPPA: -7.955730398481812
+  offense:
+    drives: 17
+    explosiveness: 1.238207543855008
+    fieldPosition:
+      averagePredictedPoints: 0.97
+      averageStart: 76.8
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.5473684210526315
+    lineYardsTotal: 29
+    openFieldYards: 0
+    openFieldYardsTotal: null
+    passingDowns:
+      explosiveness: 1.5528374483370366
+      ppa: 0.003226680699120295
+      rate: 0.484375
+      successRate: 0.16129032258064516
+    passingPlays:
+      explosiveness: 1.4096369604385128
+      ppa: -0.1330458477291254
+      rate: 0.640625
+      successRate: 0.1951219512195122
+      totalPPA: -5.454879756894141
+    plays: 64
+    pointsPerOpportunity: 0
+    powerSuccess: 0
+    ppa: -0.21539386958403786
+    rushingPlays:
+      explosiveness: 0.5524898775209889
+      ppa: -0.3341121833398055
+      rate: 0.296875
+      successRate: 0.10526315789473684
+      totalPPA: -6.348131483456306
+    secondLevelYards: 0.47368421052631576
+    secondLevelYardsTotal: 9
+    standardDowns:
+      explosiveness: 0.9235776393729793
+      ppa: -0.42076468954700463
+      rate: 0.515625
+      successRate: 0.15151515151515152
+    stuffRate: 0.2631578947368421
+    successRate: 0.15625
+    totalOpportunies: 10
+    totalPPA: -13.785207653378423
+  season: 2002
+  team: Duke
+- conference: SEC
+  defense:
+    drives: 17
+    explosiveness: 1.3343864761444502
+    fieldPosition:
+      averagePredictedPoints: -1.262
+      averageStart: 72.2
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.9625
+    lineYardsTotal: 63
+    openFieldYards: 0.28125
+    openFieldYardsTotal: 9
+    passingDowns:
+      explosiveness: 2.3094748070550035
+      ppa: -0.0007518818497727208
+      rate: 0.36619718309859156
+      successRate: 0.19230769230769232
+      totalPPA: 11.907858667967512
+    passingPlays:
+      explosiveness: 1.7862980939608428
+      ppa: 0.32183401805317596
+      rate: 0.5211267605633803
+      successRate: 0.35135135135135137
+    plays: 71
+    pointsPerOpportunity: 0
+    powerSuccess: 0.5
+    ppa: 0.020838107456962577
+    rushingPlays:
+      explosiveness: 0.6000300971928124
+      ppa: -0.25634296235988174
+      rate: 0.4507042253521127
+      successRate: 0.25
+      totalPPA: -8.202974795516216
+    secondLevelYards: 0.5625
+    secondLevelYardsTotal: 18
+    standardDowns:
+      explosiveness: 1.0296713727349023
+      ppa: 0.033312323500854085
+      rate: 0.6338028169014085
+      successRate: 0.35555555555555557
+    stuffRate: 0.28125
+    successRate: 0.29577464788732394
+    totalOpportunies: 14
+    totalPPA: 1.479505629444343
+  offense:
+    drives: 16
+    explosiveness: 1.0800018358637191
+    fieldPosition:
+      averagePredictedPoints: 1.454
+      averageStart: 71
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.558333333333333
+    lineYardsTotal: 128
+    openFieldYards: 1.3055555555555556
+    openFieldYardsTotal: 47
+    passingDowns:
+      explosiveness: 2.3428074268925827
+      ppa: 0.3746676005678444
+      rate: 0.3058823529411765
+      successRate: 0.3076923076923077
+    passingPlays:
+      explosiveness: 1.1797443074455305
+      ppa: -0.049372087842298816
+      rate: 0.5294117647058824
+      successRate: 0.4
+      totalPPA: -2.221743952903447
+    plays: 85
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: 0.03594953402215421
+    rushingPlays:
+      explosiveness: 0.9802593642819074
+      ppa: 0.21022637417212725
+      rate: 0.4235294117647059
+      successRate: 0.5
+      totalPPA: 7.568149470196581
+    secondLevelYards: 1.777777777777778
+    secondLevelYardsTotal: 64
+    standardDowns:
+      explosiveness: 0.7192002384269008
+      ppa: -0.11331605462509911
+      rate: 0.6941176470588235
+      successRate: 0.4745762711864407
+    stuffRate: 0.25
+    successRate: 0.4235294117647059
+    totalOpportunies: 16
+    totalPPA: 3.0557103918831077
+  season: 2002
+  team: Florida
+- conference: ACC
+  defense:
+    drives: 13
+    explosiveness: 1.378438323951266
+    fieldPosition:
+      averagePredictedPoints: -1.691
+      averageStart: 65.6
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.6875
+    lineYardsTotal: 86
+    openFieldYards: 1.65625
+    openFieldYardsTotal: 53
+    passingDowns:
+      explosiveness: 2.05223580234589
+      ppa: 0.30468338565446784
+      rate: 0.39622641509433965
+      successRate: 0.23809523809523808
+      totalPPA: 1.6705468549379388
+    passingPlays:
+      explosiveness: 1.6054133246451796
+      ppa: 0.08792351868094414
+      rate: 0.3584905660377358
+      successRate: 0.2631578947368421
+    plays: 53
+    pointsPerOpportunity: -0.6363636363636364
+    powerSuccess: 0.5
+    ppa: 0.08576369336250766
+    rushingPlays:
+      explosiveness: 1.2752678690903962
+      ppa: 0.11113992211487324
+      rate: 0.6037735849056604
+      successRate: 0.34375
+      totalPPA: 3.5564775076759436
+    secondLevelYards: 1.09375
+    secondLevelYardsTotal: 35
+    standardDowns:
+      explosiveness: 1.0721667428628003
+      ppa: -0.05790235470409119
+      rate: 0.6037735849056604
+      successRate: 0.34375
+    stuffRate: 0.3125
+    successRate: 0.3018867924528302
+    totalOpportunies: 11
+    totalPPA: 4.5454757482129065
+  offense:
+    drives: 14
+    explosiveness: 0.9507492752341351
+    fieldPosition:
+      averagePredictedPoints: 1.482
+      averageStart: 68.5
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.8361111111111112
+    lineYardsTotal: 102
+    openFieldYards: 0.6944444444444444
+    openFieldYardsTotal: 25
+    passingDowns:
+      explosiveness: 1.4608486451490734
+      ppa: -0.5718133098875262
+      rate: 0.43283582089552236
+      successRate: 0.1724137931034483
+    passingPlays:
+      explosiveness: 0.7070979272099108
+      ppa: -0.744332301789362
+      rate: 0.43283582089552236
+      successRate: 0.27586206896551724
+      totalPPA: -21.5856367518915
+    plays: 67
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.31184618812918147
+    rushingPlays:
+      explosiveness: 1.1006885663259653
+      ppa: 0.04403917256140643
+      rate: 0.5373134328358209
+      successRate: 0.3611111111111111
+      totalPPA: 1.5854102122106315
+    secondLevelYards: 1.222222222222222
+    secondLevelYardsTotal: 44
+    standardDowns:
+      explosiveness: 0.7913432221357168
+      ppa: -0.11345022678728675
+      rate: 0.5671641791044776
+      successRate: 0.42105263157894735
+    stuffRate: 0.25
+    successRate: 0.31343283582089554
+    totalOpportunies: 13
+    totalPPA: -20.893694604655156
+  season: 2002
+  team: Florida State
+- conference: Mountain West
+  defense:
+    drives: 16
+    explosiveness: 1.2247154503030553
+    fieldPosition:
+      averagePredictedPoints: -1.694
+      averageStart: 66
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.59
+    lineYardsTotal: 78
+    openFieldYards: 0.8
+    openFieldYardsTotal: 24
+    passingDowns:
+      explosiveness: 1.8091326491070732
+      ppa: -0.32683183407117633
+      rate: 0.3275862068965517
+      successRate: 0.15789473684210525
+      totalPPA: -23.120623856147837
+    passingPlays:
+      explosiveness: 1.5773718545389113
+      ppa: -0.9248249542459135
+      rate: 0.43103448275862066
+      successRate: 0.2
+    plays: 58
+    pointsPerOpportunity: 0
+    powerSuccess: 0.25
+    ppa: -0.45987833514386894
+    rushingPlays:
+      explosiveness: 1.0644170847413028
+      ppa: -0.00947879225622298
+      rate: 0.5172413793103449
+      successRate: 0.36666666666666664
+      totalPPA: -0.2843637676866894
+    secondLevelYards: 1.4666666666666668
+    secondLevelYardsTotal: 44
+    standardDowns:
+      explosiveness: 1.0898499428867436
+      ppa: -0.5246958613074885
+      rate: 0.6724137931034483
+      successRate: 0.3333333333333333
+    stuffRate: 0.3333333333333333
+    successRate: 0.27586206896551724
+    totalOpportunies: 15
+    totalPPA: -26.6729434383444
+  offense:
+    drives: 16
+    explosiveness: 1.3417763562878164
+    fieldPosition:
+      averagePredictedPoints: 1.469
+      averageStart: 70.3
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.3411764705882354
+    lineYardsTotal: 119
+    openFieldYards: 1.0588235294117647
+    openFieldYardsTotal: 54
+    passingDowns:
+      explosiveness: 2.1906043417372576
+      ppa: 0.42223370790871484
+      rate: 0.375
+      successRate: 0.3333333333333333
+    passingPlays:
+      explosiveness: 1.466865868534037
+      ppa: 0.016034697533031946
+      rate: 0.38636363636363635
+      successRate: 0.3235294117647059
+      totalPPA: 0.5451797161230861
+    plays: 88
+    pointsPerOpportunity: 0
+    powerSuccess: 0.7142857142857143
+    ppa: 0.03139554893358725
+    rushingPlays:
+      explosiveness: 1.2608360836579091
+      ppa: 0.08805557243211456
+      rate: 0.5795454545454546
+      successRate: 0.3333333333333333
+      totalPPA: 4.490834194037843
+    secondLevelYards: 0.9215686274509803
+    secondLevelYardsTotal: 47
+    standardDowns:
+      explosiveness: 0.7925347186440604
+      ppa: -0.2031073464514893
+      rate: 0.625
+      successRate: 0.3090909090909091
+    stuffRate: 0.3137254901960784
+    successRate: 0.3181818181818182
+    totalOpportunies: 11
+    totalPPA: 2.7628083061556783
+  season: 2002
+  team: Fresno State
+- conference: SEC
+  defense:
+    drives: 14
+    explosiveness: 0.9507492752341351
+    fieldPosition:
+      averagePredictedPoints: -1.482
+      averageStart: 68.5
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.8361111111111112
+    lineYardsTotal: 102
+    openFieldYards: 0.6944444444444444
+    openFieldYardsTotal: 25
+    passingDowns:
+      explosiveness: 1.4608486451490734
+      ppa: -0.5718133098875262
+      rate: 0.43283582089552236
+      successRate: 0.1724137931034483
+      totalPPA: -21.5856367518915
+    passingPlays:
+      explosiveness: 0.7070979272099108
+      ppa: -0.744332301789362
+      rate: 0.43283582089552236
+      successRate: 0.27586206896551724
+    plays: 67
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.31184618812918147
+    rushingPlays:
+      explosiveness: 1.1006885663259653
+      ppa: 0.04403917256140643
+      rate: 0.5373134328358209
+      successRate: 0.3611111111111111
+      totalPPA: 1.5854102122106315
+    secondLevelYards: 1.222222222222222
+    secondLevelYardsTotal: 44
+    standardDowns:
+      explosiveness: 0.7913432221357168
+      ppa: -0.11345022678728675
+      rate: 0.5671641791044776
+      successRate: 0.42105263157894735
+    stuffRate: 0.25
+    successRate: 0.31343283582089554
+    totalOpportunies: 13
+    totalPPA: -20.893694604655156
+  offense:
+    drives: 13
+    explosiveness: 1.378438323951266
+    fieldPosition:
+      averagePredictedPoints: 1.691
+      averageStart: 65.6
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.6875
+    lineYardsTotal: 86
+    openFieldYards: 1.65625
+    openFieldYardsTotal: 53
+    passingDowns:
+      explosiveness: 2.05223580234589
+      ppa: 0.30468338565446784
+      rate: 0.39622641509433965
+      successRate: 0.23809523809523808
+    passingPlays:
+      explosiveness: 1.6054133246451796
+      ppa: 0.08792351868094414
+      rate: 0.3584905660377358
+      successRate: 0.2631578947368421
+      totalPPA: 1.6705468549379388
+    plays: 53
+    pointsPerOpportunity: -0.6363636363636364
+    powerSuccess: 0.5
+    ppa: 0.08576369336250766
+    rushingPlays:
+      explosiveness: 1.2752678690903962
+      ppa: 0.11113992211487324
+      rate: 0.6037735849056604
+      successRate: 0.34375
+      totalPPA: 3.5564775076759436
+    secondLevelYards: 1.09375
+    secondLevelYardsTotal: 35
+    standardDowns:
+      explosiveness: 1.0721667428628003
+      ppa: -0.05790235470409119
+      rate: 0.6037735849056604
+      successRate: 0.34375
+    stuffRate: 0.3125
+    successRate: 0.3018867924528302
+    totalOpportunies: 11
+    totalPPA: 4.5454757482129065
+  season: 2002
+  team: Georgia
+- conference: ACC
+  defense:
+    drives: 16
+    explosiveness: 1.3417763562878164
+    fieldPosition:
+      averagePredictedPoints: -1.469
+      averageStart: 70.3
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.3411764705882354
+    lineYardsTotal: 119
+    openFieldYards: 1.0588235294117647
+    openFieldYardsTotal: 54
+    passingDowns:
+      explosiveness: 2.1906043417372576
+      ppa: 0.42223370790871484
+      rate: 0.375
+      successRate: 0.3333333333333333
+      totalPPA: 0.5451797161230861
+    passingPlays:
+      explosiveness: 1.466865868534037
+      ppa: 0.016034697533031946
+      rate: 0.38636363636363635
+      successRate: 0.3235294117647059
+    plays: 88
+    pointsPerOpportunity: 0
+    powerSuccess: 0.7142857142857143
+    ppa: 0.03139554893358725
+    rushingPlays:
+      explosiveness: 1.2608360836579091
+      ppa: 0.08805557243211456
+      rate: 0.5795454545454546
+      successRate: 0.3333333333333333
+      totalPPA: 4.490834194037843
+    secondLevelYards: 0.9215686274509803
+    secondLevelYardsTotal: 47
+    standardDowns:
+      explosiveness: 0.7925347186440604
+      ppa: -0.2031073464514893
+      rate: 0.625
+      successRate: 0.3090909090909091
+    stuffRate: 0.3137254901960784
+    successRate: 0.3181818181818182
+    totalOpportunies: 11
+    totalPPA: 2.7628083061556783
+  offense:
+    drives: 16
+    explosiveness: 1.2247154503030553
+    fieldPosition:
+      averagePredictedPoints: 1.694
+      averageStart: 66
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.59
+    lineYardsTotal: 78
+    openFieldYards: 0.8
+    openFieldYardsTotal: 24
+    passingDowns:
+      explosiveness: 1.8091326491070732
+      ppa: -0.32683183407117633
+      rate: 0.3275862068965517
+      successRate: 0.15789473684210525
+    passingPlays:
+      explosiveness: 1.5773718545389113
+      ppa: -0.9248249542459135
+      rate: 0.43103448275862066
+      successRate: 0.2
+      totalPPA: -23.120623856147837
+    plays: 58
+    pointsPerOpportunity: 0
+    powerSuccess: 0.25
+    ppa: -0.45987833514386894
+    rushingPlays:
+      explosiveness: 1.0644170847413028
+      ppa: -0.00947879225622298
+      rate: 0.5172413793103449
+      successRate: 0.36666666666666664
+      totalPPA: -0.2843637676866894
+    secondLevelYards: 1.4666666666666668
+    secondLevelYardsTotal: 44
+    standardDowns:
+      explosiveness: 1.0898499428867436
+      ppa: -0.5246958613074885
+      rate: 0.6724137931034483
+      successRate: 0.3333333333333333
+    stuffRate: 0.3333333333333333
+    successRate: 0.27586206896551724
+    totalOpportunies: 15
+    totalPPA: -26.6729434383444
+  season: 2002
+  team: Georgia Tech
+- conference: Mountain West
+  defense:
+    drives: 14
+    explosiveness: 1.0912900101323708
+    fieldPosition:
+      averagePredictedPoints: -2.139
+      averageStart: 58.4
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.3476190476190477
+    lineYardsTotal: 99
+    openFieldYards: 0.5714285714285714
+    openFieldYardsTotal: 24
+    passingDowns:
+      explosiveness: 2.240380455640081
+      ppa: 0.19160609505323237
+      rate: 0.3373493975903614
+      successRate: 0.25
+      totalPPA: 5.166437035978889
+    passingPlays:
+      explosiveness: 1.620962035245243
+      ppa: 0.12916092589947223
+      rate: 0.4819277108433735
+      successRate: 0.35
+    plays: 83
+    pointsPerOpportunity: 0
+    powerSuccess: 0.6
+    ppa: -0.049931749171978845
+    rushingPlays:
+      explosiveness: 0.4733393141673535
+      ppa: -0.20560579724710584
+      rate: 0.5060240963855421
+      successRate: 0.2857142857142857
+      totalPPA: -8.635443484378445
+    secondLevelYards: 0.7142857142857143
+    secondLevelYardsTotal: 30
+    standardDowns:
+      explosiveness: 0.6679408986295304
+      ppa: -0.17289646986845
+      rate: 0.6626506024096386
+      successRate: 0.34545454545454546
+    stuffRate: 0.19047619047619047
+    successRate: 0.3132530120481928
+    totalOpportunies: 17
+    totalPPA: -4.1443351812742435
+  offense:
+    drives: 14
+    explosiveness: 1.2367218010276972
+    fieldPosition:
+      averagePredictedPoints: 1.418
+      averageStart: 70
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.033333333333333
+    lineYardsTotal: 36
+    openFieldYards: 3.6666666666666665
+    openFieldYardsTotal: 44
+    passingDowns:
+      explosiveness: 2.396231880866595
+      ppa: 0.4711266497007374
+      rate: 0.4225352112676056
+      successRate: 0.3
+    passingPlays:
+      explosiveness: 1.2749697192229628
+      ppa: 0.1592924598212711
+      rate: 0.7464788732394366
+      successRate: 0.41509433962264153
+      totalPPA: 8.442500370527368
+    plays: 71
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.022503615751673648
+    rushingPlays:
+      explosiveness: 1.096479434311724
+      ppa: 0.17317934257311515
+      rate: 0.16901408450704225
+      successRate: 0.5
+      totalPPA: 2.0781521108773817
+    secondLevelYards: 2.25
+    secondLevelYardsTotal: 27
+    standardDowns:
+      explosiveness: 0.6874801842619036
+      ppa: -0.38369649291197444
+      rate: 0.5774647887323944
+      successRate: 0.4634146341463415
+    stuffRate: 0.3333333333333333
+    successRate: 0.39436619718309857
+    totalOpportunies: 13
+    totalPPA: -1.597756718368829
+  season: 2002
+  team: Hawai'i
+- conference: Big Ten
+  defense:
+    drives: 40
+    explosiveness: 0.9623741277651716
+    fieldPosition:
+      averagePredictedPoints: -1.061
+      averageStart: 75.6
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.9955056179775281
+    lineYardsTotal: 178
+    openFieldYards: 0.2808988764044944
+    openFieldYardsTotal: 25
+    passingDowns:
+      explosiveness: 1.7896820619008318
+      ppa: 0.014487387802844516
+      rate: 0.2986425339366516
+      successRate: 0.30303030303030304
+      totalPPA: 29.580682004112216
+    passingPlays:
+      explosiveness: 1.3218779440159067
+      ppa: 0.25068374579756114
+      rate: 0.5339366515837104
+      successRate: 0.4745762711864407
+    plays: 221
+    pointsPerOpportunity: -0.19444444444444445
+    powerSuccess: 0.7272727272727273
+    ppa: -0.0026050703840971366
+    rushingPlays:
+      explosiveness: 0.3871680217639953
+      ppa: -0.22115250533866926
+      rate: 0.40271493212669685
+      successRate: 0.39325842696629215
+      totalPPA: -19.682572975141564
+    secondLevelYards: 0.6741573033707865
+    secondLevelYardsTotal: 60
+    standardDowns:
+      explosiveness: 0.7293296392762533
+      ppa: -0.00988314935402068
+      rate: 0.7013574660633484
+      successRate: 0.45806451612903226
+    stuffRate: 0.23595505617977527
+    successRate: 0.4117647058823529
+    totalOpportunies: 36
+    totalPPA: -0.5757205548854673
+  offense:
+    drives: 38
+    explosiveness: 1.053771742958555
+    fieldPosition:
+      averagePredictedPoints: 1.489
+      averageStart: 67.9
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.1055555555555556
+    lineYardsTotal: 335
+    openFieldYards: 0.6851851851851852
+    openFieldYardsTotal: 74
+    passingDowns:
+      explosiveness: 1.7096139233563377
+      ppa: 0.19664496993544375
+      rate: 0.35678391959798994
+      successRate: 0.2676056338028169
+    passingPlays:
+      explosiveness: 1.4105820890910767
+      ppa: 0.1735658396008172
+      rate: 0.4371859296482412
+      successRate: 0.40229885057471265
+      totalPPA: 15.100228045271097
+    plays: 199
+    pointsPerOpportunity: 0
+    powerSuccess: 0.8333333333333334
+    ppa: 0.08159958813510347
+    rushingPlays:
+      explosiveness: 0.7699453312622306
+      ppa: 0.04645325622311072
+      rate: 0.542713567839196
+      successRate: 0.4074074074074074
+      totalPPA: 5.016951672095958
+    secondLevelYards: 1.1666666666666667
+    secondLevelYardsTotal: 126
+    standardDowns:
+      explosiveness: 0.8460883858325903
+      ppa: 0.017785352917727214
+      rate: 0.6432160804020101
+      successRate: 0.46875
+    stuffRate: 0.2037037037037037
+    successRate: 0.3969849246231156
+    totalOpportunies: 39
+    totalPPA: 16.23831803888559
+  season: 2002
+  team: Iowa
+- conference: Big 12
+  defense:
+    drives: 14
+    explosiveness: 0.6864955866831898
+    fieldPosition:
+      averagePredictedPoints: -2.018
+      averageStart: 63.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.1594594594594594
+    lineYardsTotal: 80
+    openFieldYards: 0.7567567567567568
+    openFieldYardsTotal: 28
+    passingDowns:
+      explosiveness: 1.5191183964197121
+      ppa: -0.2053311072537879
+      rate: 0.2857142857142857
+      successRate: 0.15
+      totalPPA: 3.202242606756746
+    passingPlays:
+      explosiveness: 1.0343449514781078
+      ppa: 0.10674142022522487
+      rate: 0.42857142857142855
+      successRate: 0.43333333333333335
+    plays: 70
+    pointsPerOpportunity: 0
+    powerSuccess: 0.6
+    ppa: -0.08692876332810003
+    rushingPlays:
+      explosiveness: 0.4204931312517819
+      ppa: -0.213532142625178
+      rate: 0.5285714285714286
+      successRate: 0.4594594594594595
+      totalPPA: -7.900689277131586
+    secondLevelYards: 1.027027027027027
+    secondLevelYardsTotal: 38
+    standardDowns:
+      explosiveness: 0.5939819411569095
+      ppa: -0.03956782575782487
+      rate: 0.7142857142857143
+      successRate: 0.54
+    stuffRate: 0.24324324324324326
+    successRate: 0.42857142857142855
+    totalOpportunies: 9
+    totalPPA: -6.085013432967002
+  offense:
+    drives: 14
+    explosiveness: 0.9893528794937961
+    fieldPosition:
+      averagePredictedPoints: 1.418
+      averageStart: 69.2
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.241463414634146
+    lineYardsTotal: 92
+    openFieldYards: 0.21951219512195122
+    openFieldYardsTotal: 9
+    passingDowns:
+      explosiveness: 1.4972824372289992
+      ppa: -0.005169299183389142
+      rate: 0.4117647058823529
+      successRate: 0.2
+    passingPlays:
+      explosiveness: 1.093133048685186
+      ppa: -0.16136218522642232
+      rate: 0.4823529411764706
+      successRate: 0.24390243902439024
+      totalPPA: -6.615849594283315
+    plays: 85
+    pointsPerOpportunity: 0
+    powerSuccess: 0.4
+    ppa: -0.11706093923031993
+    rushingPlays:
+      explosiveness: 0.9095219801158041
+      ppa: -0.048844948470531835
+      rate: 0.4823529411764706
+      successRate: 0.3170731707317073
+      totalPPA: -2.002642887291805
+    secondLevelYards: 0.7804878048780488
+    secondLevelYardsTotal: 32
+    standardDowns:
+      explosiveness: 0.7671336979846448
+      ppa: -0.1953850872631715
+      rate: 0.5882352941176471
+      successRate: 0.32
+    stuffRate: 0.2926829268292683
+    successRate: 0.27058823529411763
+    totalOpportunies: 11
+    totalPPA: -9.950179834577195
+  season: 2002
+  team: Iowa State
+- conference: Big 12
+  defense:
+    drives: 16
+    explosiveness: 1.1842345407781105
+    fieldPosition:
+      averagePredictedPoints: -2.43
+      averageStart: 56.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.0227272727272727
+    lineYardsTotal: 23
+    openFieldYards: 0
+    openFieldYardsTotal: null
+    passingDowns:
+      explosiveness: 1.7004190917426891
+      ppa: -0.08530953914166003
+      rate: 0.43902439024390244
+      successRate: 0.2222222222222222
+      totalPPA: -5.325191983819758
+    passingPlays:
+      explosiveness: 1.464899531387904
+      ppa: -0.09025749125118235
+      rate: 0.7195121951219512
+      successRate: 0.288135593220339
+    plays: 82
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.1832023964298416
+    rushingPlays:
+      explosiveness: 0.5026195635828978
+      ppa: -0.4350291820968235
+      rate: 0.2682926829268293
+      successRate: 0.3181818181818182
+      totalPPA: -9.570642006130118
+    secondLevelYards: 0.5454545454545454
+    secondLevelYardsTotal: 12
+    standardDowns:
+      explosiveness: 0.9261422652958212
+      ppa: -0.2598141977858098
+      rate: 0.5609756097560976
+      successRate: 0.34782608695652173
+    stuffRate: 0.4090909090909091
+    successRate: 0.2926829268292683
+    totalOpportunies: 14
+    totalPPA: -15.02259650724701
+  offense:
+    drives: 16
+    explosiveness: 1.1370683560552222
+    fieldPosition:
+      averagePredictedPoints: 0.804
+      averageStart: 79.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.7125
+    lineYardsTotal: 109
+    openFieldYards: 0.725
+    openFieldYardsTotal: 29
+    passingDowns:
+      explosiveness: 1.9756676167478737
+      ppa: 0.31843016421717407
+      rate: 0.36486486486486486
+      successRate: 0.25925925925925924
+    passingPlays:
+      explosiveness: 2.096699783470629
+      ppa: 0.3699123431975315
+      rate: 0.3918918918918919
+      successRate: 0.3103448275862069
+      totalPPA: 10.727457952728413
+    plays: 74
+    pointsPerOpportunity: 0
+    powerSuccess: 0.75
+    ppa: 0.10816865019324573
+    rushingPlays:
+      explosiveness: 0.6290281886000066
+      ppa: -0.013414566238123607
+      rate: 0.5405405405405406
+      successRate: 0.425
+      totalPPA: -0.5365826495249443
+    secondLevelYards: 0.7
+    secondLevelYardsTotal: 28
+    standardDowns:
+      explosiveness: 0.8281107336947715
+      ppa: -0.012619879139649296
+      rate: 0.6351351351351351
+      successRate: 0.40425531914893614
+    stuffRate: 0.2
+    successRate: 0.35135135135135137
+    totalOpportunies: 11
+    totalPPA: 8.004480114300184
+  season: 2002
+  team: Kansas State
+- conference: ACC
+  defense:
+    drives: 17
+    explosiveness: 1.238207543855008
+    fieldPosition:
+      averagePredictedPoints: -0.97
+      averageStart: 76.8
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.5473684210526315
+    lineYardsTotal: 29
+    openFieldYards: 0
+    openFieldYardsTotal: null
+    passingDowns:
+      explosiveness: 1.5528374483370366
+      ppa: 0.003226680699120295
+      rate: 0.484375
+      successRate: 0.16129032258064516
+      totalPPA: -5.454879756894141
+    passingPlays:
+      explosiveness: 1.4096369604385128
+      ppa: -0.1330458477291254
+      rate: 0.640625
+      successRate: 0.1951219512195122
+    plays: 64
+    pointsPerOpportunity: 0
+    powerSuccess: 0
+    ppa: -0.21539386958403786
+    rushingPlays:
+      explosiveness: 0.5524898775209889
+      ppa: -0.3341121833398055
+      rate: 0.296875
+      successRate: 0.10526315789473684
+      totalPPA: -6.348131483456306
+    secondLevelYards: 0.47368421052631576
+    secondLevelYardsTotal: 9
+    standardDowns:
+      explosiveness: 0.9235776393729793
+      ppa: -0.42076468954700463
+      rate: 0.515625
+      successRate: 0.15151515151515152
+    stuffRate: 0.2631578947368421
+    successRate: 0.15625
+    totalOpportunies: 10
+    totalPPA: -13.785207653378423
+  offense:
+    drives: 15
+    explosiveness: 1.1872017133755737
+    fieldPosition:
+      averagePredictedPoints: 2.484
+      averageStart: 57.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.056756756756757
+    lineYardsTotal: 113
+    openFieldYards: 1.7027027027027026
+    openFieldYardsTotal: 63
+    passingDowns:
+      explosiveness: 1.8608950995499445
+      ppa: 0.40048461063623536
+      rate: 0.35526315789473684
+      successRate: 0.2962962962962963
+    passingPlays:
+      explosiveness: 1.653916401744854
+      ppa: 0.2407080513363143
+      rate: 0.47368421052631576
+      successRate: 0.3611111111111111
+      totalPPA: 8.665489848107315
+    plays: 76
+    pointsPerOpportunity: 0
+    powerSuccess: 0
+    ppa: -0.10468066313791857
+    rushingPlays:
+      explosiveness: 0.7204870250062932
+      ppa: -0.18951968035383712
+      rate: 0.4868421052631579
+      successRate: 0.35135135135135137
+      totalPPA: -7.012228173091974
+    secondLevelYards: 0.972972972972973
+    secondLevelYardsTotal: 36
+    standardDowns:
+      explosiveness: 0.8877824306314088
+      ppa: -0.3830370384828605
+      rate: 0.6447368421052632
+      successRate: 0.3673469387755102
+    stuffRate: 0.1891891891891892
+    successRate: 0.34210526315789475
+    totalOpportunies: 14
+    totalPPA: -7.955730398481812
+  season: 2002
+  team: Louisville
+- conference: SEC
+  defense:
+    drives: 15
+    explosiveness: 1.1019109473454405
+    fieldPosition:
+      averagePredictedPoints: -1.932
+      averageStart: 64.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.816
+    lineYardsTotal: 70
+    openFieldYards: 0.8
+    openFieldYardsTotal: 20
+    passingDowns:
+      explosiveness: 2.8772280242444026
+      ppa: 0.21018788579591632
+      rate: 0.3559322033898305
+      successRate: 0.19047619047619047
+      totalPPA: 0.9381652619466295
+    passingPlays:
+      explosiveness: 1.7765627205899523
+      ppa: 0.032350526274021706
+      rate: 0.4915254237288136
+      successRate: 0.3103448275862069
+    plays: 59
+    pointsPerOpportunity: -0.5833333333333334
+    powerSuccess: null
+    ppa: -0.10678749256279335
+    rushingPlays:
+      explosiveness: 0.49472435142537957
+      ppa: -0.14348504334001688
+      rate: 0.423728813559322
+      successRate: 0.4
+      totalPPA: -3.587126083500422
+    secondLevelYards: 1.04
+    secondLevelYardsTotal: 26
+    standardDowns:
+      explosiveness: 0.6284930601723839
+      ppa: -0.2819580963926066
+      rate: 0.6440677966101694
+      successRate: 0.39473684210526316
+    stuffRate: 0.24
+    successRate: 0.3220338983050847
+    totalOpportunies: 12
+    totalPPA: -6.300462061204808
+  offense:
+    drives: 18
+    explosiveness: 0.8380971962337715
+    fieldPosition:
+      averagePredictedPoints: 1.495
+      averageStart: 69.9
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.4479166666666667
+    lineYardsTotal: 70
+    openFieldYards: 2.3333333333333335
+    openFieldYardsTotal: 112
+    passingDowns:
+      explosiveness: 1.3168054453062794
+      ppa: -0.3932882430415162
+      rate: 0.37894736842105264
+      successRate: 0.1388888888888889
+    passingPlays:
+      explosiveness: 0.6894570157438116
+      ppa: -0.28675244445118986
+      rate: 0.4842105263157895
+      successRate: 0.2608695652173913
+      totalPPA: -13.190612444754734
+    plays: 95
+    pointsPerOpportunity: 0
+    powerSuccess: 0.6
+    ppa: -0.17644543292670165
+    rushingPlays:
+      explosiveness: 0.9319752049642726
+      ppa: -0.06040305273231116
+      rate: 0.5052631578947369
+      successRate: 0.3958333333333333
+      totalPPA: -2.8993465311509357
+    secondLevelYards: 0.8333333333333334
+    secondLevelYardsTotal: 40
+    standardDowns:
+      explosiveness: 0.7460379175659816
+      ppa: -0.044134565738001216
+      rate: 0.6210526315789474
+      successRate: 0.4406779661016949
+    stuffRate: 0.22916666666666666
+    successRate: 0.3263157894736842
+    totalOpportunies: 16
+    totalPPA: -16.762316128036655
+  season: 2002
+  team: LSU
+- conference: Big Ten
+  defense:
+    drives: 12
+    explosiveness: 0.7967196398457755
+    fieldPosition:
+      averagePredictedPoints: -0.993
+      averageStart: 76.8
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.1
+    lineYardsTotal: 65
+    openFieldYards: 0.047619047619047616
+    openFieldYardsTotal: 1
+    passingDowns:
+      explosiveness: 1.8941944135779905
+      ppa: -0.06665856419400597
+      rate: 0.328125
+      successRate: 0.19047619047619047
+      totalPPA: -5.934522146718653
+    passingPlays:
+      explosiveness: 1.1011703271408606
+      ppa: -0.13801214294694542
+      rate: 0.671875
+      successRate: 0.4186046511627907
+    plays: 64
+    pointsPerOpportunity: 0
+    powerSuccess: 0.75
+    ppa: -0.10239305692846429
+    rushingPlays:
+      explosiveness: 0.2487084027146226
+      ppa: -0.029458737938241025
+      rate: 0.328125
+      successRate: 0.47619047619047616
+      totalPPA: -0.6186334967030614
+    secondLevelYards: 0.7619047619047619
+    secondLevelYardsTotal: 16
+    standardDowns:
+      explosiveness: 0.6138071775570731
+      ppa: -0.11984478593831602
+      rate: 0.671875
+      successRate: 0.5581395348837209
+    stuffRate: 0.09523809523809523
+    successRate: 0.4375
+    totalOpportunies: 11
+    totalPPA: -6.553155643421714
+  offense:
+    drives: 11
+    explosiveness: 0.9403112227192442
+    fieldPosition:
+      averagePredictedPoints: 1.845
+      averageStart: 63.6
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.945238095238095
+    lineYardsTotal: 124
+    openFieldYards: 0.16666666666666666
+    openFieldYardsTotal: 7
+    passingDowns:
+      explosiveness: 2.318173599674703
+      ppa: 0.8740327834507501
+      rate: 0.2
+      successRate: 0.42857142857142855
+    passingPlays:
+      explosiveness: 1.8482026845439727
+      ppa: 0.2678694797017142
+      rate: 0.3142857142857143
+      successRate: 0.36363636363636365
+      totalPPA: 5.8931285534377125
+    plays: 70
+    pointsPerOpportunity: -0.875
+    powerSuccess: 0.6666666666666666
+    ppa: -0.0070955494715084395
+    rushingPlays:
+      explosiveness: 0.5580411335298848
+      ppa: -0.038376325177386116
+      rate: 0.6
+      successRate: 0.4523809523809524
+      totalPPA: -1.6118056574502169
+    secondLevelYards: 0.6190476190476191
+    secondLevelYardsTotal: 26
+    standardDowns:
+      explosiveness: 0.5466362578748274
+      ppa: -0.2273776327020731
+      rate: 0.8
+      successRate: 0.375
+    stuffRate: 0.16666666666666666
+    successRate: 0.38571428571428573
+    totalOpportunies: 8
+    totalPPA: -0.4966884630055908
+  season: 2002
+  team: Maryland
+- conference: ACC
+  defense:
+    drives: 16
+    explosiveness: 0.9195406790805241
+    fieldPosition:
+      averagePredictedPoints: -1.813
+      averageStart: 62.9
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.2363636363636363
+    lineYardsTotal: 98
+    openFieldYards: 0.045454545454545456
+    openFieldYardsTotal: 2
+    passingDowns:
+      explosiveness: 2.027786135434089
+      ppa: 0.316387808952074
+      rate: 0.39436619718309857
+      successRate: 0.2857142857142857
+      totalPPA: 2.3243527068541012
+    passingPlays:
+      explosiveness: 1.3175610772242234
+      ppa: 0.1056523957660955
+      rate: 0.30985915492957744
+      successRate: 0.36363636363636365
+    plays: 71
+    pointsPerOpportunity: 0
+    powerSuccess: 0.16666666666666666
+    ppa: -0.19465274439924238
+    rushingPlays:
+      explosiveness: 0.5215202809368248
+      ppa: -0.2532301005211463
+      rate: 0.6197183098591549
+      successRate: 0.18181818181818182
+      totalPPA: -11.142124422930438
+    secondLevelYards: 0.5
+    secondLevelYardsTotal: 22
+    standardDowns:
+      explosiveness: -0.18870477727304072
+      ppa: -0.5274233372791693
+      rate: 0.6056338028169014
+      successRate: 0.18604651162790697
+    stuffRate: 0.2727272727272727
+    successRate: 0.22535211267605634
+    totalOpportunies: 9
+    totalPPA: -13.820344852346208
+  offense:
+    drives: 15
+    explosiveness: 1.0155937537825261
+    fieldPosition:
+      averagePredictedPoints: 1.48
+      averageStart: 68.7
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.1538461538461537
+    lineYardsTotal: 56
+    openFieldYards: 0.038461538461538464
+    openFieldYardsTotal: 1
+    passingDowns:
+      explosiveness: 1.6490681343416456
+      ppa: 0.34468194091412396
+      rate: 0.3972602739726027
+      successRate: 0.3448275862068966
+    passingPlays:
+      explosiveness: 1.2643706479006471
+      ppa: 0.10963704265697169
+      rate: 0.6301369863013698
+      successRate: 0.41304347826086957
+      totalPPA: 5.043303962220698
+    plays: 73
+    pointsPerOpportunity: 0
+    powerSuccess: 0.75
+    ppa: -0.055200325330131646
+    rushingPlays:
+      explosiveness: 0.22780025574180943
+      ppa: -0.32486960730581427
+      rate: 0.3561643835616438
+      successRate: 0.23076923076923078
+      totalPPA: -8.44660978995117
+    secondLevelYards: 0.8076923076923077
+    secondLevelYardsTotal: 21
+    standardDowns:
+      explosiveness: 0.5932775000764465
+      ppa: -0.318759091718391
+      rate: 0.6027397260273972
+      successRate: 0.3409090909090909
+    stuffRate: 0.34615384615384615
+    successRate: 0.3424657534246575
+    totalOpportunies: 9
+    totalPPA: -4.02962374909961
+  season: 2002
+  team: Miami
+- conference: Mid-American
+  defense:
+    drives: 11
+    explosiveness: 0.9085484178997351
+    fieldPosition:
+      averagePredictedPoints: -1.393
+      averageStart: 70
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.3526315789473684
+    lineYardsTotal: 127
+    openFieldYards: 0.2631578947368421
+    openFieldYardsTotal: 10
+    passingDowns:
+      explosiveness: 2.050401927889457
+      ppa: 0.2538201785693105
+      rate: 0.3076923076923077
+      successRate: 0.25
+      totalPPA: 13.525489942733046
+    passingPlays:
+      explosiveness: 1.7628345238383656
+      ppa: 0.5202111516435787
+      rate: 0.4
+      successRate: 0.4230769230769231
+    plays: 65
+    pointsPerOpportunity: 0
+    powerSuccess: 0.8
+    ppa: 0.18998609539293493
+    rushingPlays:
+      explosiveness: 0.46106521955092855
+      ppa: -0.023609155706199054
+      rate: 0.5846153846153846
+      successRate: 0.5526315789473685
+      totalPPA: -0.897147916835564
+    secondLevelYards: 1.2894736842105263
+    secondLevelYardsTotal: 49
+    standardDowns:
+      explosiveness: 0.6970940641979346
+      ppa: 0.16161539175899026
+      rate: 0.6923076923076923
+      successRate: 0.6
+    stuffRate: 0.18421052631578946
+    successRate: 0.49230769230769234
+    totalOpportunies: 12
+    totalPPA: 12.349096200540771
+  offense:
+    drives: 12
+    explosiveness: 0.8559973823719146
+    fieldPosition:
+      averagePredictedPoints: 0.969
+      averageStart: 75.6
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 0.49444444444444446
+    lineYardsTotal: 9
+    openFieldYards: 0
+    openFieldYardsTotal: null
+    passingDowns:
+      explosiveness: 1.6758905575311198
+      ppa: -0.13633059267899056
+      rate: 0.2777777777777778
+      successRate: 0.3
+    passingPlays:
+      explosiveness: 1.0033361458484231
+      ppa: 0.16370365890247662
+      rate: 0.6805555555555556
+      successRate: 0.4897959183673469
+      totalPPA: 8.021479286221355
+    plays: 72
+    pointsPerOpportunity: -0.5833333333333334
+    powerSuccess: 1
+    ppa: -0.05299327699000286
+    rushingPlays:
+      explosiveness: 0.14877131768467397
+      ppa: -0.4817298676227001
+      rate: 0.25
+      successRate: 0.2777777777777778
+      totalPPA: -8.6711376172086
+    secondLevelYards: 0.5
+    secondLevelYardsTotal: 9
+    standardDowns:
+      explosiveness: 0.6421122062434264
+      ppa: -0.020940463263469135
+      rate: 0.7222222222222222
+      successRate: 0.4423076923076923
+    stuffRate: 0.4444444444444444
+    successRate: 0.4027777777777778
+    totalOpportunies: 12
+    totalPPA: -3.815515943280206
+  season: 2002
+  team: Miami (OH)
+- conference: Big Ten
+  defense:
+    drives: 16
+    explosiveness: 1.0800018358637191
+    fieldPosition:
+      averagePredictedPoints: -1.454
+      averageStart: 71
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.558333333333333
+    lineYardsTotal: 128
+    openFieldYards: 1.3055555555555556
+    openFieldYardsTotal: 47
+    passingDowns:
+      explosiveness: 2.3428074268925827
+      ppa: 0.3746676005678444
+      rate: 0.3058823529411765
+      successRate: 0.3076923076923077
+      totalPPA: -2.221743952903447
+    passingPlays:
+      explosiveness: 1.1797443074455305
+      ppa: -0.049372087842298816
+      rate: 0.5294117647058824
+      successRate: 0.4
+    plays: 85
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: 0.03594953402215421
+    rushingPlays:
+      explosiveness: 0.9802593642819074
+      ppa: 0.21022637417212725
+      rate: 0.4235294117647059
+      successRate: 0.5
+      totalPPA: 7.568149470196581
+    secondLevelYards: 1.777777777777778
+    secondLevelYardsTotal: 64
+    standardDowns:
+      explosiveness: 0.7192002384269008
+      ppa: -0.11331605462509911
+      rate: 0.6941176470588235
+      successRate: 0.4745762711864407
+    stuffRate: 0.25
+    successRate: 0.4235294117647059
+    totalOpportunies: 16
+    totalPPA: 3.0557103918831077
+  offense:
+    drives: 17
+    explosiveness: 1.3343864761444502
+    fieldPosition:
+      averagePredictedPoints: 1.262
+      averageStart: 72.2
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.9625
+    lineYardsTotal: 63
+    openFieldYards: 0.28125
+    openFieldYardsTotal: 9
+    passingDowns:
+      explosiveness: 2.3094748070550035
+      ppa: -0.0007518818497727208
+      rate: 0.36619718309859156
+      successRate: 0.19230769230769232
+    passingPlays:
+      explosiveness: 1.7862980939608428
+      ppa: 0.32183401805317596
+      rate: 0.5211267605633803
+      successRate: 0.35135135135135137
+      totalPPA: 11.907858667967512
+    plays: 71
+    pointsPerOpportunity: 0
+    powerSuccess: 0.5
+    ppa: 0.020838107456962577
+    rushingPlays:
+      explosiveness: 0.6000300971928124
+      ppa: -0.25634296235988174
+      rate: 0.4507042253521127
+      successRate: 0.25
+      totalPPA: -8.202974795516216
+    secondLevelYards: 0.5625
+    secondLevelYardsTotal: 18
+    standardDowns:
+      explosiveness: 1.0296713727349023
+      ppa: 0.033312323500854085
+      rate: 0.6338028169014085
+      successRate: 0.35555555555555557
+    stuffRate: 0.28125
+    successRate: 0.29577464788732394
+    totalOpportunies: 14
+    totalPPA: 1.479505629444343
+  season: 2002
+  team: Michigan
+- conference: Big Ten
+  defense:
+    drives: 12
+    explosiveness: 1.1195504890659222
+    fieldPosition:
+      averagePredictedPoints: -1.155
+      averageStart: 72.7
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.8275862068965516
+    lineYardsTotal: 53
+    openFieldYards: 0.5517241379310345
+    openFieldYardsTotal: 16
+    passingDowns:
+      explosiveness: 1.2606836598008184
+      ppa: 0.1685185135102006
+      rate: 0.4492753623188406
+      successRate: 0.3870967741935484
+      totalPPA: -1.9170292240354438
+    passingPlays:
+      explosiveness: 1.2082873872136317
+      ppa: -0.0479257306008861
+      rate: 0.5797101449275363
+      successRate: 0.375
+    plays: 69
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.1170424727306458
+    rushingPlays:
+      explosiveness: 0.9531688050389667
+      ppa: -0.21237591015100402
+      rate: 0.42028985507246375
+      successRate: 0.27586206896551724
+      totalPPA: -6.158901394379116
+    secondLevelYards: 0.6896551724137931
+    secondLevelYardsTotal: 20
+    standardDowns:
+      explosiveness: 0.9655870300823989
+      ppa: -0.35000011940081
+      rate: 0.5507246376811594
+      successRate: 0.2894736842105263
+    stuffRate: 0.3103448275862069
+    successRate: 0.3333333333333333
+    totalOpportunies: 13
+    totalPPA: -8.07593061841456
+  offense:
+    drives: 13
+    explosiveness: 1.2037709217360095
+    fieldPosition:
+      averagePredictedPoints: 2.047
+      averageStart: 62.2
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.558139534883721
+    lineYardsTotal: 110
+    openFieldYards: 0.046511627906976744
+    openFieldYardsTotal: 2
+    passingDowns:
+      explosiveness: 0.8324704381476772
+      ppa: -0.14355743525852854
+      rate: 0.36585365853658536
+      successRate: 0.23333333333333334
+    passingPlays:
+      explosiveness: 1.4759712205430489
+      ppa: 0.11379831437004752
+      rate: 0.4024390243902439
+      successRate: 0.3939393939393939
+      totalPPA: 3.755344374211568
+    plays: 82
+    pointsPerOpportunity: 0
+    powerSuccess: 0.5
+    ppa: -0.06403568234126109
+    rushingPlays:
+      explosiveness: 0.8499105332868584
+      ppa: -0.12129530219541382
+      rate: 0.524390243902439
+      successRate: 0.23255813953488372
+      totalPPA: -5.215697994402794
+    secondLevelYards: 0.6046511627906976
+    secondLevelYardsTotal: 26
+    standardDowns:
+      explosiveness: 1.366214883305905
+      ppa: -0.018157747965914475
+      rate: 0.6341463414634146
+      successRate: 0.3076923076923077
+    stuffRate: 0.23255813953488372
+    successRate: 0.2804878048780488
+    totalOpportunies: 11
+    totalPPA: -5.250925951983409
+  season: 2002
+  team: Minnesota
+- conference: ACC
+  defense:
+    drives: 11
+    explosiveness: 0.9261723591108834
+    fieldPosition:
+      averagePredictedPoints: -1.367
+      averageStart: 70.3
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.8657894736842104
+    lineYardsTotal: 71
+    openFieldYards: 0.02631578947368421
+    openFieldYardsTotal: 1
+    passingDowns:
+      explosiveness: 1.5488084956768804
+      ppa: -0.030600584352681027
+      rate: 0.34523809523809523
+      successRate: 0.2413793103448276
+      totalPPA: -2.2670454547940215
+    passingPlays:
+      explosiveness: 0.9774311576669386
+      ppa: -0.05152376033622776
+      rate: 0.5238095238095238
+      successRate: 0.38636363636363635
+    plays: 84
+    pointsPerOpportunity: 0
+    powerSuccess: 0.38461538461538464
+    ppa: -0.14154326105031767
+    rushingPlays:
+      explosiveness: 0.8591416225375804
+      ppa: -0.22531619616385876
+      rate: 0.4523809523809524
+      successRate: 0.34210526315789475
+      totalPPA: -8.562015454226634
+    secondLevelYards: 0.631578947368421
+    secondLevelYardsTotal: 24
+    standardDowns:
+      explosiveness: 0.7366744045038407
+      ppa: -0.200040308763617
+      rate: 0.6547619047619048
+      successRate: 0.41818181818181815
+    stuffRate: 0.3157894736842105
+    successRate: 0.35714285714285715
+    totalOpportunies: 9
+    totalPPA: -11.889633928226685
+  offense:
+    drives: 12
+    explosiveness: 0.8881661568863605
+    fieldPosition:
+      averagePredictedPoints: 1.592
+      averageStart: 68.2
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.636
+    lineYardsTotal: 41
+    openFieldYards: 0
+    openFieldYardsTotal: 0
+    passingDowns:
+      explosiveness: 1.55693454657486
+      ppa: -0.07746337876593612
+      rate: 0.34328358208955223
+      successRate: 0.21739130434782608
+    passingPlays:
+      explosiveness: 1.0592610777004239
+      ppa: 0.12962295989404196
+      rate: 0.5671641791044776
+      successRate: 0.39473684210526316
+      totalPPA: 4.925672475973594
+    plays: 67
+    pointsPerOpportunity: 0
+    powerSuccess: 0.5
+    ppa: -0.026855707745454815
+    rushingPlays:
+      explosiveness: 0.5673631803599916
+      ppa: -0.2071918385321895
+      rate: 0.373134328358209
+      successRate: 0.32
+      totalPPA: -5.179795963304738
+    secondLevelYards: 0.56
+    secondLevelYardsTotal: 14
+    standardDowns:
+      explosiveness: 0.7023971597506661
+      ppa: -0.00040169789383958613
+      rate: 0.6567164179104478
+      successRate: 0.4090909090909091
+    stuffRate: 0.36
+    successRate: 0.34328358208955223
+    totalOpportunies: 9
+    totalPPA: -1.7993324189454725
+  season: 2002
+  team: NC State
+- conference: Big Ten
+  defense:
+    drives: 15
+    explosiveness: 0.9682743938866579
+    fieldPosition:
+      averagePredictedPoints: -1.475
+      averageStart: 70.3
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.4387096774193548
+    lineYardsTotal: 45
+    openFieldYards: 0
+    openFieldYardsTotal: null
+    passingDowns:
+      explosiveness: 1.8628685329751875
+      ppa: 0.06462062292726845
+      rate: 0.37333333333333335
+      successRate: 0.2857142857142857
+      totalPPA: 10.849157954212313
+    passingPlays:
+      explosiveness: 1.4916359552141716
+      ppa: 0.2523059989351701
+      rate: 0.5733333333333334
+      successRate: 0.3953488372093023
+    plays: 75
+    pointsPerOpportunity: 0
+    powerSuccess: 0.7142857142857143
+    ppa: -0.0832444688972701
+    rushingPlays:
+      explosiveness: 0.2838785059968325
+      ppa: -0.29125141181548014
+      rate: 0.41333333333333333
+      successRate: 0.41935483870967744
+      totalPPA: -9.028793766279886
+    secondLevelYards: 0.5161290322580645
+    secondLevelYardsTotal: 16
+    standardDowns:
+      explosiveness: 0.6429674342181018
+      ppa: -0.17133431083529305
+      rate: 0.6266666666666667
+      successRate: 0.46808510638297873
+    stuffRate: 0.3870967741935484
+    successRate: 0.4
+    totalOpportunies: 12
+    totalPPA: -6.243335167295257
+  offense:
+    drives: 14
+    explosiveness: 0.8884552934705932
+    fieldPosition:
+      averagePredictedPoints: 1.313
+      averageStart: 71.5
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.978846153846154
+    lineYardsTotal: 155
+    openFieldYards: 1.3076923076923077
+    openFieldYardsTotal: 68
+    passingDowns:
+      explosiveness: 1.8273701354508973
+      ppa: 0.05431784731155777
+      rate: 0.3561643835616438
+      successRate: 0.19230769230769232
+    passingPlays:
+      explosiveness: 1.258840547754566
+      ppa: -0.02477968015088624
+      rate: 0.2191780821917808
+      successRate: 0.3125
+      totalPPA: -0.39647488241417983
+    plays: 73
+    pointsPerOpportunity: 0
+    powerSuccess: 0.8
+    ppa: -0.02333080166544578
+    rushingPlays:
+      explosiveness: 0.8002683281648854
+      ppa: 0.07364851100864762
+      rate: 0.7123287671232876
+      successRate: 0.40384615384615385
+      totalPPA: 3.8297225724496764
+    secondLevelYards: 1.0769230769230769
+    secondLevelYardsTotal: 56
+    standardDowns:
+      explosiveness: 0.6649041406181398
+      ppa: -0.06628537343995838
+      rate: 0.6438356164383562
+      successRate: 0.44680851063829785
+    stuffRate: 0.17307692307692307
+    successRate: 0.3561643835616438
+    totalOpportunies: 10
+    totalPPA: -1.703148521577542
+  season: 2002
+  team: Nebraska
+- conference: Mountain West
+  defense:
+    drives: 13
+    explosiveness: 1.02531726957487
+    fieldPosition:
+      averagePredictedPoints: -2.125
+      averageStart: 58.5
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.34
+    lineYardsTotal: 82
+    openFieldYards: 0.05714285714285714
+    openFieldYardsTotal: 2
+    passingDowns:
+      explosiveness: 1.8110574030107296
+      ppa: -0.13770137715707698
+      rate: 0.3770491803278688
+      successRate: 0.21739130434782608
+      totalPPA: -13.354719804114216
+    passingPlays:
+      explosiveness: 1.8207040636108607
+      ppa: -0.5136430693890083
+      rate: 0.4262295081967213
+      successRate: 0.23076923076923078
+    plays: 61
+    pointsPerOpportunity: -0.875
+    powerSuccess: 0
+    ppa: -0.4142808810777622
+    rushingPlays:
+      explosiveness: 0.4950594068842097
+      ppa: -0.34046896976083646
+      rate: 0.5737704918032787
+      successRate: 0.2571428571428571
+      totalPPA: -11.916413941629276
+    secondLevelYards: 0.7142857142857143
+    secondLevelYardsTotal: 25
+    standardDowns:
+      explosiveness: 0.6324472028569403
+      ppa: -0.5816842650297558
+      rate: 0.6229508196721312
+      successRate: 0.2631578947368421
+    stuffRate: 0.22857142857142856
+    successRate: 0.2459016393442623
+    totalOpportunies: 8
+    totalPPA: -25.27113374574349
+  offense:
+    drives: 17
+    explosiveness: 1.51732117438599
+    fieldPosition:
+      averagePredictedPoints: 1.274
+      averageStart: 72.5
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.575
+    lineYardsTotal: 50
+    openFieldYards: 0.3125
+    openFieldYardsTotal: 10
+    passingDowns:
+      explosiveness: 2.214701848843199
+      ppa: -0.22628293727548227
+      rate: 0.5
+      successRate: 0.15384615384615385
+    passingPlays:
+      explosiveness: 1.9031955544753252
+      ppa: -0.04371099301715231
+      rate: 0.5
+      successRate: 0.3076923076923077
+      totalPPA: -1.7047287276689402
+    plays: 78
+    pointsPerOpportunity: 0
+    powerSuccess: 0
+    ppa: -0.24897619743444002
+    rushingPlays:
+      explosiveness: 0.74557241420732
+      ppa: -0.19949202425733017
+      rate: 0.41025641025641024
+      successRate: 0.1875
+      totalPPA: -6.383744776234566
+    secondLevelYards: 0.375
+    secondLevelYardsTotal: 12
+    standardDowns:
+      explosiveness: 1.1686308371573857
+      ppa: -0.2716694575933978
+      rate: 0.5
+      successRate: 0.3076923076923077
+    stuffRate: 0.3125
+    successRate: 0.23076923076923078
+    totalOpportunies: 11
+    totalPPA: -19.42014339988632
+  season: 2002
+  team: New Mexico
+- conference: FBS Independents
+  defense:
+    drives: 12
+    explosiveness: 0.8881661568863605
+    fieldPosition:
+      averagePredictedPoints: -1.592
+      averageStart: 68.2
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.636
+    lineYardsTotal: 41
+    openFieldYards: 0
+    openFieldYardsTotal: 0
+    passingDowns:
+      explosiveness: 1.55693454657486
+      ppa: -0.07746337876593612
+      rate: 0.34328358208955223
+      successRate: 0.21739130434782608
+      totalPPA: 4.925672475973594
+    passingPlays:
+      explosiveness: 1.0592610777004239
+      ppa: 0.12962295989404196
+      rate: 0.5671641791044776
+      successRate: 0.39473684210526316
+    plays: 67
+    pointsPerOpportunity: 0
+    powerSuccess: 0.5
+    ppa: -0.026855707745454815
+    rushingPlays:
+      explosiveness: 0.5673631803599916
+      ppa: -0.2071918385321895
+      rate: 0.373134328358209
+      successRate: 0.32
+      totalPPA: -5.179795963304738
+    secondLevelYards: 0.56
+    secondLevelYardsTotal: 14
+    standardDowns:
+      explosiveness: 0.7023971597506661
+      ppa: -0.00040169789383958613
+      rate: 0.6567164179104478
+      successRate: 0.4090909090909091
+    stuffRate: 0.36
+    successRate: 0.34328358208955223
+    totalOpportunies: 9
+    totalPPA: -1.7993324189454725
+  offense:
+    drives: 11
+    explosiveness: 0.9261723591108834
+    fieldPosition:
+      averagePredictedPoints: 1.367
+      averageStart: 70.3
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.8657894736842104
+    lineYardsTotal: 71
+    openFieldYards: 0.02631578947368421
+    openFieldYardsTotal: 1
+    passingDowns:
+      explosiveness: 1.5488084956768804
+      ppa: -0.030600584352681027
+      rate: 0.34523809523809523
+      successRate: 0.2413793103448276
+    passingPlays:
+      explosiveness: 0.9774311576669386
+      ppa: -0.05152376033622776
+      rate: 0.5238095238095238
+      successRate: 0.38636363636363635
+      totalPPA: -2.2670454547940215
+    plays: 84
+    pointsPerOpportunity: 0
+    powerSuccess: 0.38461538461538464
+    ppa: -0.14154326105031767
+    rushingPlays:
+      explosiveness: 0.8591416225375804
+      ppa: -0.22531619616385876
+      rate: 0.4523809523809524
+      successRate: 0.34210526315789475
+      totalPPA: -8.562015454226634
+    secondLevelYards: 0.631578947368421
+    secondLevelYardsTotal: 24
+    standardDowns:
+      explosiveness: 0.7366744045038407
+      ppa: -0.200040308763617
+      rate: 0.6547619047619048
+      successRate: 0.41818181818181815
+    stuffRate: 0.3157894736842105
+    successRate: 0.35714285714285715
+    totalOpportunies: 9
+    totalPPA: -11.889633928226685
+  season: 2002
+  team: Notre Dame
+- conference: Big Ten
+  defense:
+    drives: 27
+    explosiveness: 1.1022340933984194
+    fieldPosition:
+      averagePredictedPoints: -1.203
+      averageStart: 72.6
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.6984375
+    lineYardsTotal: 173
+    openFieldYards: 0.46875
+    openFieldYardsTotal: 30
+    passingDowns:
+      explosiveness: 1.7572454304878449
+      ppa: 0.15036385365488408
+      rate: 0.39855072463768115
+      successRate: 0.32727272727272727
+      totalPPA: 2.2702682070657074
+    passingPlays:
+      explosiveness: 1.336958385351055
+      ppa: 0.03290243778356097
+      rate: 0.5
+      successRate: 0.4057971014492754
+    plays: 138
+    pointsPerOpportunity: 0
+    powerSuccess: 0.7142857142857143
+    ppa: -0.07407155067496819
+    rushingPlays:
+      explosiveness: 0.7736200846647298
+      ppa: -0.1374073956286856
+      rate: 0.463768115942029
+      successRate: 0.3125
+      totalPPA: -8.794073320235878
+    secondLevelYards: 1.140625
+    secondLevelYardsTotal: 73
+    standardDowns:
+      explosiveness: 0.7092272911447641
+      ppa: -0.22279380655619563
+      rate: 0.6014492753623188
+      successRate: 0.3614457831325301
+    stuffRate: 0.265625
+    successRate: 0.34782608695652173
+    totalOpportunies: 16
+    totalPPA: -10.22187399314561
+  offense:
+    drives: 27
+    explosiveness: 0.920467005156554
+    fieldPosition:
+      averagePredictedPoints: 1.606
+      averageStart: 66.8
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.8214285714285716
+    lineYardsTotal: 237
+    openFieldYards: 0.30952380952380953
+    openFieldYardsTotal: 26
+    passingDowns:
+      explosiveness: 1.9753325260893275
+      ppa: 0.43141617552654365
+      rate: 0.3233082706766917
+      successRate: 0.32558139534883723
+    passingPlays:
+      explosiveness: 1.496540793817594
+      ppa: 0.19678105404340934
+      rate: 0.3157894736842105
+      successRate: 0.35714285714285715
+      totalPPA: 8.264804269823193
+    plays: 133
+    pointsPerOpportunity: 0
+    powerSuccess: 0.4
+    ppa: -0.06404644620692261
+    rushingPlays:
+      explosiveness: 0.5604208872434039
+      ppa: -0.1293311905709341
+      rate: 0.631578947368421
+      successRate: 0.2857142857142857
+      totalPPA: -10.863820007958465
+    secondLevelYards: 0.7023809523809523
+    secondLevelYardsTotal: 59
+    standardDowns:
+      explosiveness: 0.3297423134342008
+      ppa: -0.3007674765906898
+      rate: 0.6766917293233082
+      successRate: 0.2777777777777778
+    stuffRate: 0.19047619047619047
+    successRate: 0.2932330827067669
+    totalOpportunies: 18
+    totalPPA: -8.518177345520707
+  season: 2002
+  team: Ohio State
+- conference: Big 12
+  defense:
+    drives: 14
+    explosiveness: 1.0697602902236578
+    fieldPosition:
+      averagePredictedPoints: -1.752
+      averageStart: 65.5
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.2733333333333334
+    lineYardsTotal: 49
+    openFieldYards: 0.5333333333333333
+    openFieldYardsTotal: 8
+    passingDowns:
+      explosiveness: 1.8072794137490054
+      ppa: -0.0528547568592784
+      rate: 0.4576271186440678
+      successRate: 0.2222222222222222
+      totalPPA: -7.396606232507194
+    passingPlays:
+      explosiveness: 1.3557239938199706
+      ppa: -0.18491515581267987
+      rate: 0.6779661016949152
+      successRate: 0.3
+    plays: 59
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.2545296529412915
+    rushingPlays:
+      explosiveness: 0.6408147348291887
+      ppa: 0.047194114374499135
+      rate: 0.2542372881355932
+      successRate: 0.5333333333333333
+      totalPPA: 0.7079117156174871
+    secondLevelYards: 1
+    secondLevelYardsTotal: 15
+    standardDowns:
+      explosiveness: 0.7536806658556517
+      ppa: -0.42469284651049
+      rate: 0.5423728813559322
+      successRate: 0.4375
+    stuffRate: 0.26666666666666666
+    successRate: 0.3389830508474576
+    totalOpportunies: 13
+    totalPPA: -15.017249523536197
+  offense:
+    drives: 13
+    explosiveness: 1.2497280656135104
+    fieldPosition:
+      averagePredictedPoints: 1.738
+      averageStart: 65.7
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.880952380952381
+    lineYardsTotal: 79
+    openFieldYards: 1.1428571428571428
+    openFieldYardsTotal: 48
+    passingDowns:
+      explosiveness: 2.100824610310359
+      ppa: 0.168891484058253
+      rate: 0.4
+      successRate: 0.2
+    passingPlays:
+      explosiveness: 1.2996197947570995
+      ppa: 0.24495566762730195
+      rate: 0.4
+      successRate: 0.4
+      totalPPA: 7.3486700288190585
+    plays: 75
+    pointsPerOpportunity: 0
+    powerSuccess: 0.25
+    ppa: -0.013313416995456975
+    rushingPlays:
+      explosiveness: 1.1898579906412035
+      ppa: -0.11838964353383753
+      rate: 0.56
+      successRate: 0.23809523809523808
+      totalPPA: -4.9723650284211764
+    secondLevelYards: 0.8333333333333334
+    secondLevelYardsTotal: 35
+    standardDowns:
+      explosiveness: 0.9305668613521921
+      ppa: -0.13478335103126363
+      rate: 0.6
+      successRate: 0.35555555555555557
+    stuffRate: 0.3333333333333333
+    successRate: 0.29333333333333333
+    totalOpportunies: 10
+    totalPPA: -0.9985062746592732
+  season: 2002
+  team: Oklahoma
+- conference: Big 12
+  defense:
+    drives: 15
+    explosiveness: 0.6319140297755437
+    fieldPosition:
+      averagePredictedPoints: -1.358
+      averageStart: 71.4
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.5714285714285716
+    lineYardsTotal: 125
+    openFieldYards: 0.05714285714285714
+    openFieldYardsTotal: 2
+    passingDowns:
+      explosiveness: 3.7291698494098795
+      ppa: 0.03464000048477595
+      rate: 0.352112676056338
+      successRate: 0.08
+      totalPPA: -6.452161384302865
+    passingPlays:
+      explosiveness: 1.1421176815551741
+      ppa: -0.19552004194857167
+      rate: 0.4647887323943662
+      successRate: 0.24242424242424243
+    plays: 71
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.0936326601912209
+    rushingPlays:
+      explosiveness: 0.37681220388572845
+      ppa: 0.03479820404672023
+      rate: 0.49295774647887325
+      successRate: 0.45714285714285713
+      totalPPA: 1.2179371416352083
+    secondLevelYards: 0.7714285714285715
+    secondLevelYardsTotal: 27
+    standardDowns:
+      explosiveness: 0.35034531889969495
+      ppa: -0.16334606273252356
+      rate: 0.647887323943662
+      successRate: 0.4782608695652174
+    stuffRate: 0.14285714285714285
+    successRate: 0.3380281690140845
+    totalOpportunies: 14
+    totalPPA: -6.6479188735766845
+  offense:
+    drives: 15
+    explosiveness: 1.3458848700419015
+    fieldPosition:
+      averagePredictedPoints: 2.051
+      averageStart: 62
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.554838709677419
+    lineYardsTotal: 79
+    openFieldYards: 3
+    openFieldYardsTotal: 93
+    passingDowns:
+      explosiveness: 2.4885327099961483
+      ppa: -0.15070803981668354
+      rate: 0.410958904109589
+      successRate: 0.2
+    passingPlays:
+      explosiveness: 1.6214234814271864
+      ppa: 0.14921157673279425
+      rate: 0.5342465753424658
+      successRate: 0.358974358974359
+      totalPPA: 5.819251492578975
+    plays: 73
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.03892832617403255
+    rushingPlays:
+      explosiveness: 0.9951993646424478
+      ppa: -0.039369688967055304
+      rate: 0.4246575342465753
+      successRate: 0.3548387096774194
+      totalPPA: -1.2204603579787143
+    secondLevelYards: 0.967741935483871
+    secondLevelYardsTotal: 30
+    standardDowns:
+      explosiveness: 0.9850487100563498
+      ppa: 0.039057520553398374
+      rate: 0.589041095890411
+      successRate: 0.4418604651162791
+    stuffRate: 0.22580645161290322
+    successRate: 0.3424657534246575
+    totalOpportunies: 16
+    totalPPA: -2.8417678107043765
+  season: 2002
+  team: Oklahoma State
+- conference: SEC
+  defense:
+    drives: 14
+    explosiveness: 0.8884552934705932
+    fieldPosition:
+      averagePredictedPoints: -1.313
+      averageStart: 71.5
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.978846153846154
+    lineYardsTotal: 155
+    openFieldYards: 1.3076923076923077
+    openFieldYardsTotal: 68
+    passingDowns:
+      explosiveness: 1.8273701354508973
+      ppa: 0.05431784731155777
+      rate: 0.3561643835616438
+      successRate: 0.19230769230769232
+      totalPPA: -0.39647488241417983
+    passingPlays:
+      explosiveness: 1.258840547754566
+      ppa: -0.02477968015088624
+      rate: 0.2191780821917808
+      successRate: 0.3125
+    plays: 73
+    pointsPerOpportunity: 0
+    powerSuccess: 0.8
+    ppa: -0.02333080166544578
+    rushingPlays:
+      explosiveness: 0.8002683281648854
+      ppa: 0.07364851100864762
+      rate: 0.7123287671232876
+      successRate: 0.40384615384615385
+      totalPPA: 3.8297225724496764
+    secondLevelYards: 1.0769230769230769
+    secondLevelYardsTotal: 56
+    standardDowns:
+      explosiveness: 0.6649041406181398
+      ppa: -0.06628537343995838
+      rate: 0.6438356164383562
+      successRate: 0.44680851063829785
+    stuffRate: 0.17307692307692307
+    successRate: 0.3561643835616438
+    totalOpportunies: 10
+    totalPPA: -1.703148521577542
+  offense:
+    drives: 15
+    explosiveness: 0.9682743938866579
+    fieldPosition:
+      averagePredictedPoints: 1.475
+      averageStart: 70.3
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.4387096774193548
+    lineYardsTotal: 45
+    openFieldYards: 0
+    openFieldYardsTotal: null
+    passingDowns:
+      explosiveness: 1.8628685329751875
+      ppa: 0.06462062292726845
+      rate: 0.37333333333333335
+      successRate: 0.2857142857142857
+    passingPlays:
+      explosiveness: 1.4916359552141716
+      ppa: 0.2523059989351701
+      rate: 0.5733333333333334
+      successRate: 0.3953488372093023
+      totalPPA: 10.849157954212313
+    plays: 75
+    pointsPerOpportunity: 0
+    powerSuccess: 0.7142857142857143
+    ppa: -0.0832444688972701
+    rushingPlays:
+      explosiveness: 0.2838785059968325
+      ppa: -0.29125141181548014
+      rate: 0.41333333333333333
+      successRate: 0.41935483870967744
+      totalPPA: -9.028793766279886
+    secondLevelYards: 0.5161290322580645
+    secondLevelYardsTotal: 16
+    standardDowns:
+      explosiveness: 0.6429674342181018
+      ppa: -0.17133431083529305
+      rate: 0.6266666666666667
+      successRate: 0.46808510638297873
+    stuffRate: 0.3870967741935484
+    successRate: 0.4
+    totalOpportunies: 12
+    totalPPA: -6.243335167295257
+  season: 2002
+  team: Ole Miss
+- conference: Pac-12
+  defense:
+    drives: 15
+    explosiveness: 1.1172050507751594
+    fieldPosition:
+      averagePredictedPoints: -1.857
+      averageStart: 64.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.9206349206349205
+    lineYardsTotal: 184
+    openFieldYards: 0.5714285714285714
+    openFieldYardsTotal: 36
+    passingDowns:
+      explosiveness: 1.6179242590166032
+      ppa: 0.3097710921386285
+      rate: 0.3253012048192771
+      successRate: 0.3333333333333333
+      totalPPA: 5.323829702358682
+    passingPlays:
+      explosiveness: 2.1903439112088474
+      ppa: 0.33273935639741764
+      rate: 0.1927710843373494
+      successRate: 0.375
+    plays: 83
+    pointsPerOpportunity: 0
+    powerSuccess: 0.625
+    ppa: -0.07009281227292805
+    rushingPlays:
+      explosiveness: 0.8105939477941059
+      ppa: -0.12646109720886467
+      rate: 0.7590361445783133
+      successRate: 0.3333333333333333
+      totalPPA: -7.967049124158473
+    secondLevelYards: 1.0158730158730158
+    secondLevelYardsTotal: 64
+    standardDowns:
+      explosiveness: 0.8668454466544376
+      ppa: -0.2532414804713571
+      rate: 0.6746987951807228
+      successRate: 0.32142857142857145
+    stuffRate: 0.19047619047619047
+    successRate: 0.3253012048192771
+    totalOpportunies: 11
+    totalPPA: -5.817703418653028
+  offense:
+    drives: 13
+    explosiveness: 0.9991812196680211
+    fieldPosition:
+      averagePredictedPoints: 1.534
+      averageStart: 69.6
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.8
+    lineYardsTotal: 73
+    openFieldYards: 1.4615384615384615
+    openFieldYardsTotal: 38
+    passingDowns:
+      explosiveness: 1.4803384173829204
+      ppa: -0.0026125391051880563
+      rate: 0.37142857142857144
+      successRate: 0.15384615384615385
+    passingPlays:
+      explosiveness: 0.9523036467449438
+      ppa: -0.1011282170509313
+      rate: 0.6
+      successRate: 0.2857142857142857
+      totalPPA: -4.247385116139114
+    plays: 70
+    pointsPerOpportunity: 0
+    powerSuccess: 0.5
+    ppa: -0.11085663113689846
+    rushingPlays:
+      explosiveness: 1.05032039012956
+      ppa: -0.05533127916244513
+      rate: 0.37142857142857144
+      successRate: 0.4230769230769231
+      totalPPA: -1.4386132582235733
+    secondLevelYards: 1.1153846153846154
+    secondLevelYardsTotal: 29
+    standardDowns:
+      explosiveness: 0.8978849675175159
+      ppa: -0.17481904915563642
+      rate: 0.6285714285714286
+      successRate: 0.4318181818181818
+    stuffRate: 0.23076923076923078
+    successRate: 0.32857142857142857
+    totalOpportunies: 12
+    totalPPA: -7.759964179582892
+  season: 2002
+  team: Oregon
+- conference: Pac-12
+  defense:
+    drives: 13
+    explosiveness: 1.0059407602864052
+    fieldPosition:
+      averagePredictedPoints: -2.007
+      averageStart: 61.3
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.5333333333333332
+    lineYardsTotal: 55
+    openFieldYards: 0.5277777777777778
+    openFieldYardsTotal: 19
+    passingDowns:
+      explosiveness: 1.563610452107659
+      ppa: -0.22691892683055578
+      rate: 0.296875
+      successRate: 0.2631578947368421
+      totalPPA: 1.745883623563668
+    passingPlays:
+      explosiveness: 1.1772611852522412
+      ppa: 0.06983534494254673
+      rate: 0.390625
+      successRate: 0.44
+    plays: 64
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.15631016441357715
+    rushingPlays:
+      explosiveness: 0.8488970374010554
+      ppa: -0.23268259141490405
+      rate: 0.5625
+      successRate: 0.3333333333333333
+      totalPPA: -8.376573290936546
+    secondLevelYards: 0.9444444444444444
+    secondLevelYardsTotal: 34
+    standardDowns:
+      explosiveness: 0.851032512558279
+      ppa: -0.1264975758375195
+      rate: 0.703125
+      successRate: 0.4
+    stuffRate: 0.3055555555555556
+    successRate: 0.359375
+    totalOpportunies: 12
+    totalPPA: -10.003850522468937
+  offense:
+    drives: 14
+    explosiveness: 1.2081816484495556
+    fieldPosition:
+      averagePredictedPoints: 1.022
+      averageStart: 76.4
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 0.375
+    lineYardsTotal: 12
+    openFieldYards: 0
+    openFieldYardsTotal: null
+    passingDowns:
+      explosiveness: 1.9477264230425173
+      ppa: -0.08475034766321585
+      rate: 0.4936708860759494
+      successRate: 0.2564102564102564
+    passingPlays:
+      explosiveness: 1.4966610582654447
+      ppa: 0.22360371201981238
+      rate: 0.5569620253164557
+      successRate: 0.38636363636363635
+      totalPPA: 9.838563328871745
+    plays: 79
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.15913383451804383
+    rushingPlays:
+      explosiveness: 0.507588796039539
+      ppa: -0.3671929418886824
+      rate: 0.4050632911392405
+      successRate: 0.21875
+      totalPPA: -11.750174140437837
+    secondLevelYards: 0.21875
+    secondLevelYardsTotal: 7
+    standardDowns:
+      explosiveness: 0.6799353808831543
+      ppa: -0.23165773420150115
+      rate: 0.5063291139240507
+      successRate: 0.35
+    stuffRate: 0.46875
+    successRate: 0.3037974683544304
+    totalOpportunies: 10
+    totalPPA: -12.571572926925464
+  season: 2002
+  team: Oregon State
+- conference: Big Ten
+  defense:
+    drives: 38
+    explosiveness: 0.8762411063971871
+    fieldPosition:
+      averagePredictedPoints: -1.508
+      averageStart: 68.3
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.4968992248062016
+    lineYardsTotal: 322
+    openFieldYards: 0.5271317829457365
+    openFieldYardsTotal: 68
+    passingDowns:
+      explosiveness: 1.2598254609155388
+      ppa: 0.0482208032906213
+      rate: 0.32057416267942584
+      successRate: 0.2835820895522388
+      totalPPA: -1.1840563311670984
+    passingPlays:
+      explosiveness: 1.139028198671101
+      ppa: -0.016676849734747864
+      rate: 0.3397129186602871
+      successRate: 0.4084507042253521
+    plays: 209
+    pointsPerOpportunity: -0.1891891891891892
+    powerSuccess: 0.75
+    ppa: -0.0766285381718118
+    rushingPlays:
+      explosiveness: 0.7174739048150309
+      ppa: -0.053582060936961294
+      rate: 0.6172248803827751
+      successRate: 0.37209302325581395
+      totalPPA: -6.912085860868007
+    secondLevelYards: 0.9069767441860465
+    secondLevelYardsTotal: 117
+    standardDowns:
+      explosiveness: 0.7505841626756582
+      ppa: -0.13553632604493165
+      rate: 0.6794258373205742
+      successRate: 0.4084507042253521
+    stuffRate: 0.23255813953488372
+    successRate: 0.3684210526315789
+    totalOpportunies: 37
+    totalPPA: -16.015364477908665
+  offense:
+    drives: 41
+    explosiveness: 1.1100037498870576
+    fieldPosition:
+      averagePredictedPoints: 1.256
+      averageStart: 72.7
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.002020202020202
+    lineYardsTotal: 198
+    openFieldYards: 0.8787878787878788
+    openFieldYardsTotal: 87
+    passingDowns:
+      explosiveness: 1.9723719090348744
+      ppa: 0.07984731650866489
+      rate: 0.3490566037735849
+      successRate: 0.25675675675675674
+    passingPlays:
+      explosiveness: 1.4036792136473237
+      ppa: 0.06445246524270747
+      rate: 0.49056603773584906
+      successRate: 0.375
+      totalPPA: 6.7030563852415765
+    plays: 212
+    pointsPerOpportunity: -0.21212121212121213
+    powerSuccess: 0.6
+    ppa: -0.03973885034844365
+    rushingPlays:
+      explosiveness: 0.7731407179267521
+      ppa: -0.10686142347577024
+      rate: 0.4669811320754717
+      successRate: 0.3434343434343434
+      totalPPA: -10.579280924101253
+    secondLevelYards: 0.7474747474747475
+    secondLevelYardsTotal: 74
+    standardDowns:
+      explosiveness: 0.8065779161128257
+      ppa: -0.10386476590950186
+      rate: 0.6509433962264151
+      successRate: 0.391304347826087
+    stuffRate: 0.30303030303030304
+    successRate: 0.3443396226415094
+    totalOpportunies: 33
+    totalPPA: -8.424636273870053
+  season: 2002
+  team: Penn State
+- conference: ACC
+  defense:
+    drives: 14
+    explosiveness: 1.2081816484495556
+    fieldPosition:
+      averagePredictedPoints: -1.022
+      averageStart: 76.4
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 0.375
+    lineYardsTotal: 12
+    openFieldYards: 0
+    openFieldYardsTotal: null
+    passingDowns:
+      explosiveness: 1.9477264230425173
+      ppa: -0.08475034766321585
+      rate: 0.4936708860759494
+      successRate: 0.2564102564102564
+      totalPPA: 9.838563328871745
+    passingPlays:
+      explosiveness: 1.4966610582654447
+      ppa: 0.22360371201981238
+      rate: 0.5569620253164557
+      successRate: 0.38636363636363635
+    plays: 79
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.15913383451804383
+    rushingPlays:
+      explosiveness: 0.507588796039539
+      ppa: -0.3671929418886824
+      rate: 0.4050632911392405
+      successRate: 0.21875
+      totalPPA: -11.750174140437837
+    secondLevelYards: 0.21875
+    secondLevelYardsTotal: 7
+    standardDowns:
+      explosiveness: 0.6799353808831543
+      ppa: -0.23165773420150115
+      rate: 0.5063291139240507
+      successRate: 0.35
+    stuffRate: 0.46875
+    successRate: 0.3037974683544304
+    totalOpportunies: 10
+    totalPPA: -12.571572926925464
+  offense:
+    drives: 13
+    explosiveness: 1.0059407602864052
+    fieldPosition:
+      averagePredictedPoints: 2.007
+      averageStart: 61.3
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.5333333333333332
+    lineYardsTotal: 55
+    openFieldYards: 0.5277777777777778
+    openFieldYardsTotal: 19
+    passingDowns:
+      explosiveness: 1.563610452107659
+      ppa: -0.22691892683055578
+      rate: 0.296875
+      successRate: 0.2631578947368421
+    passingPlays:
+      explosiveness: 1.1772611852522412
+      ppa: 0.06983534494254673
+      rate: 0.390625
+      successRate: 0.44
+      totalPPA: 1.745883623563668
+    plays: 64
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.15631016441357715
+    rushingPlays:
+      explosiveness: 0.8488970374010554
+      ppa: -0.23268259141490405
+      rate: 0.5625
+      successRate: 0.3333333333333333
+      totalPPA: -8.376573290936546
+    secondLevelYards: 0.9444444444444444
+    secondLevelYardsTotal: 34
+    standardDowns:
+      explosiveness: 0.851032512558279
+      ppa: -0.1264975758375195
+      rate: 0.703125
+      successRate: 0.4
+    stuffRate: 0.3055555555555556
+    successRate: 0.359375
+    totalOpportunies: 12
+    totalPPA: -10.003850522468937
+  season: 2002
+  team: Pittsburgh
+- conference: Big Ten
+  defense:
+    drives: 14
+    explosiveness: 1.2768144899051204
+    fieldPosition:
+      averagePredictedPoints: -1.611
+      averageStart: 65.9
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.1148148148148147
+    lineYardsTotal: 30
+    openFieldYards: 0
+    openFieldYardsTotal: null
+    passingDowns:
+      explosiveness: 1.6391182417233228
+      ppa: 0.004210175643734424
+      rate: 0.4823529411764706
+      successRate: 0.3170731707317073
+      totalPPA: 4.833971241132488
+    passingPlays:
+      explosiveness: 1.4343654632299374
+      ppa: 0.08951798594689793
+      rate: 0.6352941176470588
+      successRate: 0.3888888888888889
+    plays: 85
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.12815572265152894
+    rushingPlays:
+      explosiveness: 0.7253860832682607
+      ppa: -0.42696068225399475
+      rate: 0.3176470588235294
+      successRate: 0.2222222222222222
+      totalPPA: -11.527938420857858
+    secondLevelYards: 0.48148148148148145
+    secondLevelYardsTotal: 13
+    standardDowns:
+      explosiveness: 0.9403895775025036
+      ppa: -0.25149667333575165
+      rate: 0.5176470588235295
+      successRate: 0.3181818181818182
+    stuffRate: 0.2962962962962963
+    successRate: 0.3176470588235294
+    totalOpportunies: 14
+    totalPPA: -10.89323642537996
+  offense:
+    drives: 14
+    explosiveness: 1.1674830432709344
+    fieldPosition:
+      averagePredictedPoints: 1.822
+      averageStart: 64.7
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 0.465
+    lineYardsTotal: 19
+    openFieldYards: 1.225
+    openFieldYardsTotal: 49
+    passingDowns:
+      explosiveness: 1.9544297836231483
+      ppa: 0.2358933229505315
+      rate: 0.4025974025974026
+      successRate: 0.3225806451612903
+    passingPlays:
+      explosiveness: 1.4329468166973875
+      ppa: 0.5499490727967333
+      rate: 0.4675324675324675
+      successRate: 0.5277777777777778
+      totalPPA: 19.798166620682398
+    plays: 77
+    pointsPerOpportunity: -1.0769230769230769
+    powerSuccess: 0.5
+    ppa: 0.03352412152011347
+    rushingPlays:
+      explosiveness: 0.6070595215928669
+      ppa: -0.42276409069563275
+      rate: 0.5194805194805194
+      successRate: 0.225
+      totalPPA: -16.91056362782531
+    secondLevelYards: 0.8
+    secondLevelYardsTotal: 32
+    standardDowns:
+      explosiveness: 0.7302904097419268
+      ppa: -0.10285512292212476
+      rate: 0.5974025974025974
+      successRate: 0.391304347826087
+    stuffRate: 0.375
+    successRate: 0.36363636363636365
+    totalOpportunies: 13
+    totalPPA: 2.5813573570487374
+  season: 2002
+  team: Purdue
+- conference: Sun Belt
+  defense:
+    drives: 15
+    explosiveness: 1.3458848700419015
+    fieldPosition:
+      averagePredictedPoints: -2.051
+      averageStart: 62
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.554838709677419
+    lineYardsTotal: 79
+    openFieldYards: 3
+    openFieldYardsTotal: 93
+    passingDowns:
+      explosiveness: 2.4885327099961483
+      ppa: -0.15070803981668354
+      rate: 0.410958904109589
+      successRate: 0.2
+      totalPPA: 5.819251492578975
+    passingPlays:
+      explosiveness: 1.6214234814271864
+      ppa: 0.14921157673279425
+      rate: 0.5342465753424658
+      successRate: 0.358974358974359
+    plays: 73
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.03892832617403255
+    rushingPlays:
+      explosiveness: 0.9951993646424478
+      ppa: -0.039369688967055304
+      rate: 0.4246575342465753
+      successRate: 0.3548387096774194
+      totalPPA: -1.2204603579787143
+    secondLevelYards: 0.967741935483871
+    secondLevelYardsTotal: 30
+    standardDowns:
+      explosiveness: 0.9850487100563498
+      ppa: 0.039057520553398374
+      rate: 0.589041095890411
+      successRate: 0.4418604651162791
+    stuffRate: 0.22580645161290322
+    successRate: 0.3424657534246575
+    totalOpportunies: 16
+    totalPPA: -2.8417678107043765
+  offense:
+    drives: 15
+    explosiveness: 0.6319140297755437
+    fieldPosition:
+      averagePredictedPoints: 1.358
+      averageStart: 71.4
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.5714285714285716
+    lineYardsTotal: 125
+    openFieldYards: 0.05714285714285714
+    openFieldYardsTotal: 2
+    passingDowns:
+      explosiveness: 3.7291698494098795
+      ppa: 0.03464000048477595
+      rate: 0.352112676056338
+      successRate: 0.08
+    passingPlays:
+      explosiveness: 1.1421176815551741
+      ppa: -0.19552004194857167
+      rate: 0.4647887323943662
+      successRate: 0.24242424242424243
+      totalPPA: -6.452161384302865
+    plays: 71
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.0936326601912209
+    rushingPlays:
+      explosiveness: 0.37681220388572845
+      ppa: 0.03479820404672023
+      rate: 0.49295774647887325
+      successRate: 0.45714285714285713
+      totalPPA: 1.2179371416352083
+    secondLevelYards: 0.7714285714285715
+    secondLevelYardsTotal: 27
+    standardDowns:
+      explosiveness: 0.35034531889969495
+      ppa: -0.16334606273252356
+      rate: 0.647887323943662
+      successRate: 0.4782608695652174
+    stuffRate: 0.14285714285714285
+    successRate: 0.3380281690140845
+    totalOpportunies: 14
+    totalPPA: -6.6479188735766845
+  season: 2002
+  team: Southern Mississippi
+- conference: Big 12
+  defense:
+    drives: 16
+    explosiveness: 1.071802999512213
+    fieldPosition:
+      averagePredictedPoints: -1.748
+      averageStart: 66.3
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 0.703125
+    lineYardsTotal: 23
+    openFieldYards: 2.09375
+    openFieldYardsTotal: 67
+    passingDowns:
+      explosiveness: 2.2191767314826816
+      ppa: -0.3287109062602227
+      rate: 0.5076923076923077
+      successRate: 0.15151515151515152
+      totalPPA: -14.507163089881452
+    passingPlays:
+      explosiveness: 0.8628152087424364
+      ppa: -0.4679730028994017
+      rate: 0.47692307692307695
+      successRate: 0.1935483870967742
+    plays: 65
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.4229443236716407
+    rushingPlays:
+      explosiveness: 1.3225883484359446
+      ppa: -0.34169870950218373
+      rate: 0.49230769230769234
+      successRate: 0.15625
+      totalPPA: -10.93435870406988
+    secondLevelYards: 0.375
+    secondLevelYardsTotal: 12
+    standardDowns:
+      explosiveness: 0.11565822287015569
+      ppa: -0.5201225353771655
+      rate: 0.49230769230769234
+      successRate: 0.1875
+    stuffRate: 0.46875
+    successRate: 0.16923076923076924
+    totalOpportunies: 10
+    totalPPA: -27.491381038656645
+  offense:
+    drives: 14
+    explosiveness: 0.9174294779068344
+    fieldPosition:
+      averagePredictedPoints: 1.508
+      averageStart: 70.9
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.74
+    lineYardsTotal: 137
+    openFieldYards: 0.74
+    openFieldYardsTotal: 37
+    passingDowns:
+      explosiveness: 1.8430967483608203
+      ppa: 0.3140951495569118
+      rate: 0.32051282051282054
+      successRate: 0.28
+    passingPlays:
+      explosiveness: 1.115777006734314
+      ppa: 0.19351055918745008
+      rate: 0.3333333333333333
+      successRate: 0.34615384615384615
+      totalPPA: 5.031274538873702
+    plays: 78
+    pointsPerOpportunity: 0
+    powerSuccess: 0.8571428571428571
+    ppa: 0.01178022558585841
+    rushingPlays:
+      explosiveness: 0.8124219626452275
+      ppa: -0.0592985321822732
+      rate: 0.6410256410256411
+      successRate: 0.34
+      totalPPA: -2.9649266091136597
+    secondLevelYards: 1.02
+    secondLevelYardsTotal: 51
+    standardDowns:
+      explosiveness: 0.5763941677395764
+      ppa: -0.13082115364577057
+      rate: 0.6794871794871795
+      successRate: 0.3584905660377358
+    stuffRate: 0.26
+    successRate: 0.3333333333333333
+    totalOpportunies: 7
+    totalPPA: 0.918857595696956
+  season: 2002
+  team: TCU
+- conference: SEC
+  defense:
+    drives: 11
+    explosiveness: 0.9403112227192442
+    fieldPosition:
+      averagePredictedPoints: -1.845
+      averageStart: 63.6
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.945238095238095
+    lineYardsTotal: 124
+    openFieldYards: 0.16666666666666666
+    openFieldYardsTotal: 7
+    passingDowns:
+      explosiveness: 2.318173599674703
+      ppa: 0.8740327834507501
+      rate: 0.2
+      successRate: 0.42857142857142855
+      totalPPA: 5.8931285534377125
+    passingPlays:
+      explosiveness: 1.8482026845439727
+      ppa: 0.2678694797017142
+      rate: 0.3142857142857143
+      successRate: 0.36363636363636365
+    plays: 70
+    pointsPerOpportunity: -0.875
+    powerSuccess: 0.6666666666666666
+    ppa: -0.0070955494715084395
+    rushingPlays:
+      explosiveness: 0.5580411335298848
+      ppa: -0.038376325177386116
+      rate: 0.6
+      successRate: 0.4523809523809524
+      totalPPA: -1.6118056574502169
+    secondLevelYards: 0.6190476190476191
+    secondLevelYardsTotal: 26
+    standardDowns:
+      explosiveness: 0.5466362578748274
+      ppa: -0.2273776327020731
+      rate: 0.8
+      successRate: 0.375
+    stuffRate: 0.16666666666666666
+    successRate: 0.38571428571428573
+    totalOpportunies: 8
+    totalPPA: -0.4966884630055908
+  offense:
+    drives: 12
+    explosiveness: 0.7967196398457755
+    fieldPosition:
+      averagePredictedPoints: 0.993
+      averageStart: 76.8
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.1
+    lineYardsTotal: 65
+    openFieldYards: 0.047619047619047616
+    openFieldYardsTotal: 1
+    passingDowns:
+      explosiveness: 1.8941944135779905
+      ppa: -0.06665856419400597
+      rate: 0.328125
+      successRate: 0.19047619047619047
+    passingPlays:
+      explosiveness: 1.1011703271408606
+      ppa: -0.13801214294694542
+      rate: 0.671875
+      successRate: 0.4186046511627907
+      totalPPA: -5.934522146718653
+    plays: 64
+    pointsPerOpportunity: 0
+    powerSuccess: 0.75
+    ppa: -0.10239305692846429
+    rushingPlays:
+      explosiveness: 0.2487084027146226
+      ppa: -0.029458737938241025
+      rate: 0.328125
+      successRate: 0.47619047619047616
+      totalPPA: -0.6186334967030614
+    secondLevelYards: 0.7619047619047619
+    secondLevelYardsTotal: 16
+    standardDowns:
+      explosiveness: 0.6138071775570731
+      ppa: -0.11984478593831602
+      rate: 0.671875
+      successRate: 0.5581395348837209
+    stuffRate: 0.09523809523809523
+    successRate: 0.4375
+    totalOpportunies: 11
+    totalPPA: -6.553155643421714
+  season: 2002
+  team: Tennessee
+- conference: Big 12
+  defense:
+    drives: 18
+    explosiveness: 0.8380971962337715
+    fieldPosition:
+      averagePredictedPoints: -1.495
+      averageStart: 69.9
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.4479166666666667
+    lineYardsTotal: 70
+    openFieldYards: 2.3333333333333335
+    openFieldYardsTotal: 112
+    passingDowns:
+      explosiveness: 1.3168054453062794
+      ppa: -0.3932882430415162
+      rate: 0.37894736842105264
+      successRate: 0.1388888888888889
+      totalPPA: -13.190612444754734
+    passingPlays:
+      explosiveness: 0.6894570157438116
+      ppa: -0.28675244445118986
+      rate: 0.4842105263157895
+      successRate: 0.2608695652173913
+    plays: 95
+    pointsPerOpportunity: 0
+    powerSuccess: 0.6
+    ppa: -0.17644543292670165
+    rushingPlays:
+      explosiveness: 0.9319752049642726
+      ppa: -0.06040305273231116
+      rate: 0.5052631578947369
+      successRate: 0.3958333333333333
+      totalPPA: -2.8993465311509357
+    secondLevelYards: 0.8333333333333334
+    secondLevelYardsTotal: 40
+    standardDowns:
+      explosiveness: 0.7460379175659816
+      ppa: -0.044134565738001216
+      rate: 0.6210526315789474
+      successRate: 0.4406779661016949
+    stuffRate: 0.22916666666666666
+    successRate: 0.3263157894736842
+    totalOpportunies: 16
+    totalPPA: -16.762316128036655
+  offense:
+    drives: 15
+    explosiveness: 1.1019109473454405
+    fieldPosition:
+      averagePredictedPoints: 1.932
+      averageStart: 64.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.816
+    lineYardsTotal: 70
+    openFieldYards: 0.8
+    openFieldYardsTotal: 20
+    passingDowns:
+      explosiveness: 2.8772280242444026
+      ppa: 0.21018788579591632
+      rate: 0.3559322033898305
+      successRate: 0.19047619047619047
+    passingPlays:
+      explosiveness: 1.7765627205899523
+      ppa: 0.032350526274021706
+      rate: 0.4915254237288136
+      successRate: 0.3103448275862069
+      totalPPA: 0.9381652619466295
+    plays: 59
+    pointsPerOpportunity: -0.5833333333333334
+    powerSuccess: null
+    ppa: -0.10678749256279335
+    rushingPlays:
+      explosiveness: 0.49472435142537957
+      ppa: -0.14348504334001688
+      rate: 0.423728813559322
+      successRate: 0.4
+      totalPPA: -3.587126083500422
+    secondLevelYards: 1.04
+    secondLevelYardsTotal: 26
+    standardDowns:
+      explosiveness: 0.6284930601723839
+      ppa: -0.2819580963926066
+      rate: 0.6440677966101694
+      successRate: 0.39473684210526316
+    stuffRate: 0.24
+    successRate: 0.3220338983050847
+    totalOpportunies: 12
+    totalPPA: -6.300462061204808
+  season: 2002
+  team: Texas
+- conference: Big 12
+  defense:
+    drives: 15
+    explosiveness: 0.8816257949572467
+    fieldPosition:
+      averagePredictedPoints: -1.243
+      averageStart: 73.4
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 0.4724137931034483
+    lineYardsTotal: 14
+    openFieldYards: 0.1724137931034483
+    openFieldYardsTotal: 5
+    passingDowns:
+      explosiveness: 1.1169664317258818
+      ppa: 0.20827998753462018
+      rate: 0.39325842696629215
+      successRate: 0.45714285714285713
+      totalPPA: -3.375560454251583
+    passingPlays:
+      explosiveness: 0.9768399984958119
+      ppa: -0.061373826440937876
+      rate: 0.6179775280898876
+      successRate: 0.4
+    plays: 89
+    pointsPerOpportunity: 0
+    powerSuccess: 0.3333333333333333
+    ppa: -0.2594933349949088
+    rushingPlays:
+      explosiveness: 0.5325070486491741
+      ppa: -0.3013781684494407
+      rate: 0.3258426966292135
+      successRate: 0.20689655172413793
+      totalPPA: -8.73996688503378
+    secondLevelYards: 0.6551724137931034
+    secondLevelYardsTotal: 19
+    standardDowns:
+      explosiveness: 0.5678382792657332
+      ppa: -0.5626797477455294
+      rate: 0.6067415730337079
+      successRate: 0.2222222222222222
+    stuffRate: 0.4827586206896552
+    successRate: 0.3146067415730337
+    totalOpportunies: 15
+    totalPPA: -23.09490681454688
+  offense:
+    drives: 13
+    explosiveness: 0.8448159769284171
+    fieldPosition:
+      averagePredictedPoints: 1.803
+      averageStart: 64.7
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.32
+    lineYardsTotal: 58
+    openFieldYards: 0.52
+    openFieldYardsTotal: 13
+    passingDowns:
+      explosiveness: 2.0768173594924213
+      ppa: 0.6803142066729061
+      rate: 0.2465753424657534
+      successRate: 0.4444444444444444
+    passingPlays:
+      explosiveness: 0.9710403916298935
+      ppa: 0.2721416131631918
+      rate: 0.6438356164383562
+      successRate: 0.5531914893617021
+      totalPPA: 12.790655818670015
+    plays: 73
+    pointsPerOpportunity: 0
+    powerSuccess: 0.5714285714285714
+    ppa: 0.11462832444715947
+    rushingPlays:
+      explosiveness: 0.5713297450752182
+      ppa: -0.17172076706615944
+      rate: 0.3424657534246575
+      successRate: 0.48
+      totalPPA: -4.293019176653986
+    secondLevelYards: 1.2
+    secondLevelYardsTotal: 30
+    standardDowns:
+      explosiveness: 0.5162822749113494
+      ppa: -0.07050523700853943
+      rate: 0.7534246575342466
+      successRate: 0.5454545454545454
+    stuffRate: 0.32
+    successRate: 0.5205479452054794
+    totalOpportunies: 13
+    totalPPA: 8.367867684642642
+  season: 2002
+  team: Texas Tech
+- conference: Mid-American
+  defense:
+    drives: 11
+    explosiveness: 0.9880400437561757
+    fieldPosition:
+      averagePredictedPoints: -2.126
+      averageStart: 60.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.875
+    lineYardsTotal: 104
+    openFieldYards: 0.5277777777777778
+    openFieldYardsTotal: 19
+    passingDowns:
+      explosiveness: 1.9168643367719904
+      ppa: 0.17448320647717677
+      rate: 0.28
+      successRate: 0.2857142857142857
+      totalPPA: 11.49663519297393
+    passingPlays:
+      explosiveness: 1.131084262195592
+      ppa: 0.34838288463557365
+      rate: 0.44
+      successRate: 0.5757575757575758
+    plays: 75
+    pointsPerOpportunity: 0
+    powerSuccess: 0.75
+    ppa: 0.0630772942098113
+    rushingPlays:
+      explosiveness: 0.7615533645604331
+      ppa: -0.06422125849534702
+      rate: 0.48
+      successRate: 0.3333333333333333
+      totalPPA: -2.3119653058324925
+    secondLevelYards: 1
+    secondLevelYardsTotal: 36
+    standardDowns:
+      explosiveness: 0.7651222134323801
+      ppa: 0.01975277277250251
+      rate: 0.72
+      successRate: 0.46296296296296297
+    stuffRate: 0.19444444444444445
+    successRate: 0.41333333333333333
+    totalOpportunies: 16
+    totalPPA: 4.730797065735848
+  offense:
+    drives: 11
+    explosiveness: 1.0117000414454198
+    fieldPosition:
+      averagePredictedPoints: 1.136
+      averageStart: 73.5
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.691666666666667
+    lineYardsTotal: 65
+    openFieldYards: 0.75
+    openFieldYardsTotal: 18
+    passingDowns:
+      explosiveness: 1.1489283390339506
+      ppa: 0.23171146828493877
+      rate: 0.3333333333333333
+      successRate: 0.4090909090909091
+    passingPlays:
+      explosiveness: 1.0061735266446303
+      ppa: 0.13380323615567052
+      rate: 0.6363636363636364
+      successRate: 0.5
+      totalPPA: 5.6197359185381615
+    plays: 66
+    pointsPerOpportunity: 0
+    powerSuccess: 0.3333333333333333
+    ppa: 0.07359842586699114
+    rushingPlays:
+      explosiveness: 1.0262071427974921
+      ppa: -0.03175999213819776
+      rate: 0.36363636363636365
+      successRate: 0.3333333333333333
+      totalPPA: -0.7622398113167462
+    secondLevelYards: 1.4583333333333333
+    secondLevelYardsTotal: 35
+    standardDowns:
+      explosiveness: 0.9499473075305808
+      ppa: -0.005458095341982664
+      rate: 0.6666666666666666
+      successRate: 0.45454545454545453
+    stuffRate: 0.3333333333333333
+    successRate: 0.4393939393939394
+    totalOpportunies: 17
+    totalPPA: 4.857496107221416
+  season: 2002
+  team: Toledo
+- conference: American Athletic
+  defense:
+    drives: 14
+    explosiveness: 1.2367218010276972
+    fieldPosition:
+      averagePredictedPoints: -1.418
+      averageStart: 70
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.033333333333333
+    lineYardsTotal: 36
+    openFieldYards: 3.6666666666666665
+    openFieldYardsTotal: 44
+    passingDowns:
+      explosiveness: 2.396231880866595
+      ppa: 0.4711266497007374
+      rate: 0.4225352112676056
+      successRate: 0.3
+      totalPPA: 8.442500370527368
+    passingPlays:
+      explosiveness: 1.2749697192229628
+      ppa: 0.1592924598212711
+      rate: 0.7464788732394366
+      successRate: 0.41509433962264153
+    plays: 71
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.022503615751673648
+    rushingPlays:
+      explosiveness: 1.096479434311724
+      ppa: 0.17317934257311515
+      rate: 0.16901408450704225
+      successRate: 0.5
+      totalPPA: 2.0781521108773817
+    secondLevelYards: 2.25
+    secondLevelYardsTotal: 27
+    standardDowns:
+      explosiveness: 0.6874801842619036
+      ppa: -0.38369649291197444
+      rate: 0.5774647887323944
+      successRate: 0.4634146341463415
+    stuffRate: 0.3333333333333333
+    successRate: 0.39436619718309857
+    totalOpportunies: 13
+    totalPPA: -1.597756718368829
+  offense:
+    drives: 14
+    explosiveness: 1.0912900101323708
+    fieldPosition:
+      averagePredictedPoints: 2.139
+      averageStart: 58.4
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.3476190476190477
+    lineYardsTotal: 99
+    openFieldYards: 0.5714285714285714
+    openFieldYardsTotal: 24
+    passingDowns:
+      explosiveness: 2.240380455640081
+      ppa: 0.19160609505323237
+      rate: 0.3373493975903614
+      successRate: 0.25
+    passingPlays:
+      explosiveness: 1.620962035245243
+      ppa: 0.12916092589947223
+      rate: 0.4819277108433735
+      successRate: 0.35
+      totalPPA: 5.166437035978889
+    plays: 83
+    pointsPerOpportunity: 0
+    powerSuccess: 0.6
+    ppa: -0.049931749171978845
+    rushingPlays:
+      explosiveness: 0.4733393141673535
+      ppa: -0.20560579724710584
+      rate: 0.5060240963855421
+      successRate: 0.2857142857142857
+      totalPPA: -8.635443484378445
+    secondLevelYards: 0.7142857142857143
+    secondLevelYardsTotal: 30
+    standardDowns:
+      explosiveness: 0.6679408986295304
+      ppa: -0.17289646986845
+      rate: 0.6626506024096386
+      successRate: 0.34545454545454546
+    stuffRate: 0.19047619047619047
+    successRate: 0.3132530120481928
+    totalOpportunies: 17
+    totalPPA: -4.1443351812742435
+  season: 2002
+  team: Tulane
+- conference: Pac-12
+  defense:
+    drives: 17
+    explosiveness: 1.51732117438599
+    fieldPosition:
+      averagePredictedPoints: -1.274
+      averageStart: 72.5
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.575
+    lineYardsTotal: 50
+    openFieldYards: 0.3125
+    openFieldYardsTotal: 10
+    passingDowns:
+      explosiveness: 2.214701848843199
+      ppa: -0.22628293727548227
+      rate: 0.5
+      successRate: 0.15384615384615385
+      totalPPA: -1.7047287276689402
+    passingPlays:
+      explosiveness: 1.9031955544753252
+      ppa: -0.04371099301715231
+      rate: 0.5
+      successRate: 0.3076923076923077
+    plays: 78
+    pointsPerOpportunity: 0
+    powerSuccess: 0
+    ppa: -0.24897619743444002
+    rushingPlays:
+      explosiveness: 0.74557241420732
+      ppa: -0.19949202425733017
+      rate: 0.41025641025641024
+      successRate: 0.1875
+      totalPPA: -6.383744776234566
+    secondLevelYards: 0.375
+    secondLevelYardsTotal: 12
+    standardDowns:
+      explosiveness: 1.1686308371573857
+      ppa: -0.2716694575933978
+      rate: 0.5
+      successRate: 0.3076923076923077
+    stuffRate: 0.3125
+    successRate: 0.23076923076923078
+    totalOpportunies: 11
+    totalPPA: -19.42014339988632
+  offense:
+    drives: 13
+    explosiveness: 1.02531726957487
+    fieldPosition:
+      averagePredictedPoints: 2.125
+      averageStart: 58.5
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.34
+    lineYardsTotal: 82
+    openFieldYards: 0.05714285714285714
+    openFieldYardsTotal: 2
+    passingDowns:
+      explosiveness: 1.8110574030107296
+      ppa: -0.13770137715707698
+      rate: 0.3770491803278688
+      successRate: 0.21739130434782608
+    passingPlays:
+      explosiveness: 1.8207040636108607
+      ppa: -0.5136430693890083
+      rate: 0.4262295081967213
+      successRate: 0.23076923076923078
+      totalPPA: -13.354719804114216
+    plays: 61
+    pointsPerOpportunity: -0.875
+    powerSuccess: 0
+    ppa: -0.4142808810777622
+    rushingPlays:
+      explosiveness: 0.4950594068842097
+      ppa: -0.34046896976083646
+      rate: 0.5737704918032787
+      successRate: 0.2571428571428571
+      totalPPA: -11.916413941629276
+    secondLevelYards: 0.7142857142857143
+    secondLevelYardsTotal: 25
+    standardDowns:
+      explosiveness: 0.6324472028569403
+      ppa: -0.5816842650297558
+      rate: 0.6229508196721312
+      successRate: 0.2631578947368421
+    stuffRate: 0.22857142857142856
+    successRate: 0.2459016393442623
+    totalOpportunies: 8
+    totalPPA: -25.27113374574349
+  season: 2002
+  team: UCLA
+- conference: Pac-12
+  defense:
+    drives: 10
+    explosiveness: 1.2443716184345797
+    fieldPosition:
+      averagePredictedPoints: -1.55
+      averageStart: 66.3
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.459090909090909
+    lineYardsTotal: 76
+    openFieldYards: 1.4545454545454546
+    openFieldYardsTotal: 32
+    passingDowns:
+      explosiveness: 1.8237148273539974
+      ppa: 0.5071969898652541
+      rate: 0.3684210526315789
+      successRate: 0.38095238095238093
+      totalPPA: 2.8467454088320716
+    passingPlays:
+      explosiveness: 1.1992117133914328
+      ppa: 0.08133558310948776
+      rate: 0.6140350877192983
+      successRate: 0.42857142857142855
+    plays: 57
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: 0.15225225578400806
+    rushingPlays:
+      explosiveness: 1.3290464403904803
+      ppa: 0.2650742350389267
+      rate: 0.38596491228070173
+      successRate: 0.36363636363636365
+      totalPPA: 5.831633170856387
+    secondLevelYards: 1.4545454545454546
+    secondLevelYardsTotal: 32
+    standardDowns:
+      explosiveness: 0.935388573677557
+      ppa: -0.054798839096718815
+      rate: 0.631578947368421
+      successRate: 0.4166666666666667
+    stuffRate: 0.22727272727272727
+    successRate: 0.40350877192982454
+    totalOpportunies: 12
+    totalPPA: 8.678378579688458
+  offense:
+    drives: 12
+    explosiveness: 0.9898546003176216
+    fieldPosition:
+      averagePredictedPoints: 1.495
+      averageStart: 70.2
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.8022222222222224
+    lineYardsTotal: 126
+    openFieldYards: 0.5111111111111111
+    openFieldYardsTotal: 23
+    passingDowns:
+      explosiveness: 1.9110479340113966
+      ppa: 0.25706368610920477
+      rate: 0.2962962962962963
+      successRate: 0.375
+    passingPlays:
+      explosiveness: 1.6305275018721808
+      ppa: 0.5629522541097244
+      rate: 0.37037037037037035
+      successRate: 0.5666666666666667
+      totalPPA: 16.88856762329173
+    plays: 81
+    pointsPerOpportunity: 0
+    powerSuccess: 0.5714285714285714
+    ppa: 0.10377385594981854
+    rushingPlays:
+      explosiveness: 0.4947891763890986
+      ppa: -0.060439339711213236
+      rate: 0.5555555555555556
+      successRate: 0.4888888888888889
+      totalPPA: -2.7197702870045957
+    secondLevelYards: 0.8888888888888888
+    secondLevelYardsTotal: 40
+    standardDowns:
+      explosiveness: 0.7134966002094891
+      ppa: 0.03923076956691908
+      rate: 0.7037037037037037
+      successRate: 0.5263157894736842
+    stuffRate: 0.15555555555555556
+    successRate: 0.48148148148148145
+    totalOpportunies: 12
+    totalPPA: 8.405682331935301
+  season: 2002
+  team: USC
+- conference: ACC
+  defense:
+    drives: 11
+    explosiveness: 0.8893965089510882
+    fieldPosition:
+      averagePredictedPoints: -1.286
+      averageStart: 71
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.510204081632653
+    lineYardsTotal: 172
+    openFieldYards: 0.5102040816326531
+    openFieldYardsTotal: 25
+    passingDowns:
+      explosiveness: 2.076648793616529
+      ppa: 0.08384791855169914
+      rate: 0.28169014084507044
+      successRate: 0.4
+      totalPPA: 13.83751255251388
+    passingPlays:
+      explosiveness: 1.7343148785716391
+      ppa: 0.691875627625694
+      rate: 0.28169014084507044
+      successRate: 0.55
+    plays: 71
+    pointsPerOpportunity: 0
+    powerSuccess: 0.8571428571428571
+    ppa: 0.09565163917416183
+    rushingPlays:
+      explosiveness: 0.5319310448808552
+      ppa: 0.053377898701517885
+      rate: 0.6901408450704225
+      successRate: 0.5306122448979592
+      totalPPA: 2.6155170363743765
+    secondLevelYards: 1.0204081632653061
+    secondLevelYardsTotal: 50
+    standardDowns:
+      explosiveness: 0.5618786373192425
+      ppa: 0.10028054922218643
+      rate: 0.7183098591549296
+      successRate: 0.5686274509803921
+    stuffRate: 0.10204081632653061
+    successRate: 0.5211267605633803
+    totalOpportunies: 15
+    totalPPA: 6.7912663813654905
+  offense:
+    drives: 9
+    explosiveness: 0.8847469977307522
+    fieldPosition:
+      averagePredictedPoints: 2.008
+      averageStart: 63.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.14
+    lineYardsTotal: 110
+    openFieldYards: 0.7428571428571429
+    openFieldYardsTotal: 26
+    passingDowns:
+      explosiveness: 1.417618788269527
+      ppa: 0.27134408908729996
+      rate: 0.2459016393442623
+      successRate: 0.26666666666666666
+    passingPlays:
+      explosiveness: 1.204410175047002
+      ppa: 0.35794590868556186
+      rate: 0.3442622950819672
+      successRate: 0.5238095238095238
+      totalPPA: 7.5168640823968
+    plays: 61
+    pointsPerOpportunity: 0
+    powerSuccess: 0.6
+    ppa: 0.03332771173524977
+    rushingPlays:
+      explosiveness: 0.6335830726965559
+      ppa: -0.014822644385572454
+      rate: 0.5737704918032787
+      successRate: 0.4
+      totalPPA: -0.5187925534950358
+    secondLevelYards: 0.9428571428571428
+    secondLevelYardsTotal: 33
+    standardDowns:
+      explosiveness: 0.7832476090566998
+      ppa: -0.04428632435781008
+      rate: 0.7540983606557377
+      successRate: 0.45652173913043476
+    stuffRate: 0.17142857142857143
+    successRate: 0.4098360655737705
+    totalOpportunies: 10
+    totalPPA: 2.0329904158502354
+  season: 2002
+  team: Virginia
+- conference: ACC
+  defense:
+    drives: 11
+    explosiveness: 1.3494877726616668
+    fieldPosition:
+      averagePredictedPoints: -1.402
+      averageStart: 69.9
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.023076923076923
+    lineYardsTotal: 157
+    openFieldYards: 0.4230769230769231
+    openFieldYardsTotal: 22
+    passingDowns:
+      explosiveness: 2.697998060932173
+      ppa: -0.12050267779618841
+      rate: 0.38666666666666666
+      successRate: 0.13793103448275862
+      totalPPA: -4.430304102764335
+    passingPlays:
+      explosiveness: 2.7296047686579663
+      ppa: -0.23317390014549136
+      rate: 0.25333333333333335
+      successRate: 0.15789473684210525
+    plays: 75
+    pointsPerOpportunity: 0
+    powerSuccess: 0.6666666666666666
+    ppa: -0.1055871844993096
+    rushingPlays:
+      explosiveness: 1.1059377145446727
+      ppa: 0.07030590068427517
+      rate: 0.6933333333333334
+      successRate: 0.3269230769230769
+      totalPPA: 3.655906835582309
+    secondLevelYards: 0.8846153846153846
+    secondLevelYardsTotal: 46
+    standardDowns:
+      explosiveness: 1.01236020059404
+      ppa: -0.09618393872519035
+      rate: 0.6133333333333333
+      successRate: 0.34782608695652173
+    stuffRate: 0.17307692307692307
+    successRate: 0.26666666666666666
+    totalOpportunies: 10
+    totalPPA: -7.91903883744822
+  offense:
+    drives: 9
+    explosiveness: 0.7842163698350733
+    fieldPosition:
+      averagePredictedPoints: 1.945
+      averageStart: 63.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.5
+    lineYardsTotal: 80
+    openFieldYards: 0.1875
+    openFieldYardsTotal: 6
+    passingDowns:
+      explosiveness: 1.4549011749021443
+      ppa: -0.2379638605983734
+      rate: 0.23333333333333334
+      successRate: 0.21428571428571427
+    passingPlays:
+      explosiveness: 1.2261968276985542
+      ppa: 0.2539431259248698
+      rate: 0.43333333333333335
+      successRate: 0.5
+      totalPPA: 6.602521274046615
+    plays: 60
+    pointsPerOpportunity: 0
+    powerSuccess: 0.8
+    ppa: -0.012989655452815578
+    rushingPlays:
+      explosiveness: 0.34223591197159237
+      ppa: -0.1619142961513538
+      rate: 0.5333333333333333
+      successRate: 0.40625
+      totalPPA: -5.181257476843322
+    secondLevelYards: 0.46875
+    secondLevelYardsTotal: 15
+    standardDowns:
+      explosiveness: 0.6967357430871944
+      ppa: 0.05548075480887593
+      rate: 0.7666666666666667
+      successRate: 0.5
+    stuffRate: 0.21875
+    successRate: 0.43333333333333335
+    totalOpportunies: 11
+    totalPPA: -0.7793793271689347
+  season: 2002
+  team: Virginia Tech
+- conference: ACC
+  defense:
+    drives: 13
+    explosiveness: 0.9991812196680211
+    fieldPosition:
+      averagePredictedPoints: -1.534
+      averageStart: 69.6
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.8
+    lineYardsTotal: 73
+    openFieldYards: 1.4615384615384615
+    openFieldYardsTotal: 38
+    passingDowns:
+      explosiveness: 1.4803384173829204
+      ppa: -0.0026125391051880563
+      rate: 0.37142857142857144
+      successRate: 0.15384615384615385
+      totalPPA: -4.247385116139114
+    passingPlays:
+      explosiveness: 0.9523036467449438
+      ppa: -0.1011282170509313
+      rate: 0.6
+      successRate: 0.2857142857142857
+    plays: 70
+    pointsPerOpportunity: 0
+    powerSuccess: 0.5
+    ppa: -0.11085663113689846
+    rushingPlays:
+      explosiveness: 1.05032039012956
+      ppa: -0.05533127916244513
+      rate: 0.37142857142857144
+      successRate: 0.4230769230769231
+      totalPPA: -1.4386132582235733
+    secondLevelYards: 1.1153846153846154
+    secondLevelYardsTotal: 29
+    standardDowns:
+      explosiveness: 0.8978849675175159
+      ppa: -0.17481904915563642
+      rate: 0.6285714285714286
+      successRate: 0.4318181818181818
+    stuffRate: 0.23076923076923078
+    successRate: 0.32857142857142857
+    totalOpportunies: 12
+    totalPPA: -7.759964179582892
+  offense:
+    drives: 15
+    explosiveness: 1.1172050507751594
+    fieldPosition:
+      averagePredictedPoints: 1.857
+      averageStart: 64.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.9206349206349205
+    lineYardsTotal: 184
+    openFieldYards: 0.5714285714285714
+    openFieldYardsTotal: 36
+    passingDowns:
+      explosiveness: 1.6179242590166032
+      ppa: 0.3097710921386285
+      rate: 0.3253012048192771
+      successRate: 0.3333333333333333
+    passingPlays:
+      explosiveness: 2.1903439112088474
+      ppa: 0.33273935639741764
+      rate: 0.1927710843373494
+      successRate: 0.375
+      totalPPA: 5.323829702358682
+    plays: 83
+    pointsPerOpportunity: 0
+    powerSuccess: 0.625
+    ppa: -0.07009281227292805
+    rushingPlays:
+      explosiveness: 0.8105939477941059
+      ppa: -0.12646109720886467
+      rate: 0.7590361445783133
+      successRate: 0.3333333333333333
+      totalPPA: -7.967049124158473
+    secondLevelYards: 1.0158730158730158
+    secondLevelYardsTotal: 64
+    standardDowns:
+      explosiveness: 0.8668454466544376
+      ppa: -0.2532414804713571
+      rate: 0.6746987951807228
+      successRate: 0.32142857142857145
+    stuffRate: 0.19047619047619047
+    successRate: 0.3253012048192771
+    totalOpportunies: 11
+    totalPPA: -5.817703418653028
+  season: 2002
+  team: Wake Forest
+- conference: Pac-12
+  defense:
+    drives: 14
+    explosiveness: 1.1674830432709344
+    fieldPosition:
+      averagePredictedPoints: -1.822
+      averageStart: 64.7
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 0.465
+    lineYardsTotal: 19
+    openFieldYards: 1.225
+    openFieldYardsTotal: 49
+    passingDowns:
+      explosiveness: 1.9544297836231483
+      ppa: 0.2358933229505315
+      rate: 0.4025974025974026
+      successRate: 0.3225806451612903
+      totalPPA: 19.798166620682398
+    passingPlays:
+      explosiveness: 1.4329468166973875
+      ppa: 0.5499490727967333
+      rate: 0.4675324675324675
+      successRate: 0.5277777777777778
+    plays: 77
+    pointsPerOpportunity: -1.0769230769230769
+    powerSuccess: 0.5
+    ppa: 0.03352412152011347
+    rushingPlays:
+      explosiveness: 0.6070595215928669
+      ppa: -0.42276409069563275
+      rate: 0.5194805194805194
+      successRate: 0.225
+      totalPPA: -16.91056362782531
+    secondLevelYards: 0.8
+    secondLevelYardsTotal: 32
+    standardDowns:
+      explosiveness: 0.7302904097419268
+      ppa: -0.10285512292212476
+      rate: 0.5974025974025974
+      successRate: 0.391304347826087
+    stuffRate: 0.375
+    successRate: 0.36363636363636365
+    totalOpportunies: 13
+    totalPPA: 2.5813573570487374
+  offense:
+    drives: 14
+    explosiveness: 1.2768144899051204
+    fieldPosition:
+      averagePredictedPoints: 1.611
+      averageStart: 65.9
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.1148148148148147
+    lineYardsTotal: 30
+    openFieldYards: 0
+    openFieldYardsTotal: null
+    passingDowns:
+      explosiveness: 1.6391182417233228
+      ppa: 0.004210175643734424
+      rate: 0.4823529411764706
+      successRate: 0.3170731707317073
+    passingPlays:
+      explosiveness: 1.4343654632299374
+      ppa: 0.08951798594689793
+      rate: 0.6352941176470588
+      successRate: 0.3888888888888889
+      totalPPA: 4.833971241132488
+    plays: 85
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.12815572265152894
+    rushingPlays:
+      explosiveness: 0.7253860832682607
+      ppa: -0.42696068225399475
+      rate: 0.3176470588235294
+      successRate: 0.2222222222222222
+      totalPPA: -11.527938420857858
+    secondLevelYards: 0.48148148148148145
+    secondLevelYardsTotal: 13
+    standardDowns:
+      explosiveness: 0.9403895775025036
+      ppa: -0.25149667333575165
+      rate: 0.5176470588235295
+      successRate: 0.3181818181818182
+    stuffRate: 0.2962962962962963
+    successRate: 0.3176470588235294
+    totalOpportunies: 14
+    totalPPA: -10.89323642537996
+  season: 2002
+  team: Washington
+- conference: Pac-12
+  defense:
+    drives: 13
+    explosiveness: 1.2497280656135104
+    fieldPosition:
+      averagePredictedPoints: -1.738
+      averageStart: 65.7
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 1.880952380952381
+    lineYardsTotal: 79
+    openFieldYards: 1.1428571428571428
+    openFieldYardsTotal: 48
+    passingDowns:
+      explosiveness: 2.100824610310359
+      ppa: 0.168891484058253
+      rate: 0.4
+      successRate: 0.2
+      totalPPA: 7.3486700288190585
+    passingPlays:
+      explosiveness: 1.2996197947570995
+      ppa: 0.24495566762730195
+      rate: 0.4
+      successRate: 0.4
+    plays: 75
+    pointsPerOpportunity: 0
+    powerSuccess: 0.25
+    ppa: -0.013313416995456975
+    rushingPlays:
+      explosiveness: 1.1898579906412035
+      ppa: -0.11838964353383753
+      rate: 0.56
+      successRate: 0.23809523809523808
+      totalPPA: -4.9723650284211764
+    secondLevelYards: 0.8333333333333334
+    secondLevelYardsTotal: 35
+    standardDowns:
+      explosiveness: 0.9305668613521921
+      ppa: -0.13478335103126363
+      rate: 0.6
+      successRate: 0.35555555555555557
+    stuffRate: 0.3333333333333333
+    successRate: 0.29333333333333333
+    totalOpportunies: 10
+    totalPPA: -0.9985062746592732
+  offense:
+    drives: 14
+    explosiveness: 1.0697602902236578
+    fieldPosition:
+      averagePredictedPoints: 1.752
+      averageStart: 65.5
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.2733333333333334
+    lineYardsTotal: 49
+    openFieldYards: 0.5333333333333333
+    openFieldYardsTotal: 8
+    passingDowns:
+      explosiveness: 1.8072794137490054
+      ppa: -0.0528547568592784
+      rate: 0.4576271186440678
+      successRate: 0.2222222222222222
+    passingPlays:
+      explosiveness: 1.3557239938199706
+      ppa: -0.18491515581267987
+      rate: 0.6779661016949152
+      successRate: 0.3
+      totalPPA: -7.396606232507194
+    plays: 59
+    pointsPerOpportunity: 0
+    powerSuccess: 1
+    ppa: -0.2545296529412915
+    rushingPlays:
+      explosiveness: 0.6408147348291887
+      ppa: 0.047194114374499135
+      rate: 0.2542372881355932
+      successRate: 0.5333333333333333
+      totalPPA: 0.7079117156174871
+    secondLevelYards: 1
+    secondLevelYardsTotal: 15
+    standardDowns:
+      explosiveness: 0.7536806658556517
+      ppa: -0.42469284651049
+      rate: 0.5423728813559322
+      successRate: 0.4375
+    stuffRate: 0.26666666666666666
+    successRate: 0.3389830508474576
+    totalOpportunies: 13
+    totalPPA: -15.017249523536197
+  season: 2002
+  team: Washington State
+- conference: Big 12
+  defense:
+    drives: 9
+    explosiveness: 0.8847469977307522
+    fieldPosition:
+      averagePredictedPoints: -2.008
+      averageStart: 63.1
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.14
+    lineYardsTotal: 110
+    openFieldYards: 0.7428571428571429
+    openFieldYardsTotal: 26
+    passingDowns:
+      explosiveness: 1.417618788269527
+      ppa: 0.27134408908729996
+      rate: 0.2459016393442623
+      successRate: 0.26666666666666666
+      totalPPA: 7.5168640823968
+    passingPlays:
+      explosiveness: 1.204410175047002
+      ppa: 0.35794590868556186
+      rate: 0.3442622950819672
+      successRate: 0.5238095238095238
+    plays: 61
+    pointsPerOpportunity: 0
+    powerSuccess: 0.6
+    ppa: 0.03332771173524977
+    rushingPlays:
+      explosiveness: 0.6335830726965559
+      ppa: -0.014822644385572454
+      rate: 0.5737704918032787
+      successRate: 0.4
+      totalPPA: -0.5187925534950358
+    secondLevelYards: 0.9428571428571428
+    secondLevelYardsTotal: 33
+    standardDowns:
+      explosiveness: 0.7832476090566998
+      ppa: -0.04428632435781008
+      rate: 0.7540983606557377
+      successRate: 0.45652173913043476
+    stuffRate: 0.17142857142857143
+    successRate: 0.4098360655737705
+    totalOpportunies: 10
+    totalPPA: 2.0329904158502354
+  offense:
+    drives: 11
+    explosiveness: 0.8893965089510882
+    fieldPosition:
+      averagePredictedPoints: 1.286
+      averageStart: 71
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 3.510204081632653
+    lineYardsTotal: 172
+    openFieldYards: 0.5102040816326531
+    openFieldYardsTotal: 25
+    passingDowns:
+      explosiveness: 2.076648793616529
+      ppa: 0.08384791855169914
+      rate: 0.28169014084507044
+      successRate: 0.4
+    passingPlays:
+      explosiveness: 1.7343148785716391
+      ppa: 0.691875627625694
+      rate: 0.28169014084507044
+      successRate: 0.55
+      totalPPA: 13.83751255251388
+    plays: 71
+    pointsPerOpportunity: 0
+    powerSuccess: 0.8571428571428571
+    ppa: 0.09565163917416183
+    rushingPlays:
+      explosiveness: 0.5319310448808552
+      ppa: 0.053377898701517885
+      rate: 0.6901408450704225
+      successRate: 0.5306122448979592
+      totalPPA: 2.6155170363743765
+    secondLevelYards: 1.0204081632653061
+    secondLevelYardsTotal: 50
+    standardDowns:
+      explosiveness: 0.5618786373192425
+      ppa: 0.10028054922218643
+      rate: 0.7183098591549296
+      successRate: 0.5686274509803921
+    stuffRate: 0.10204081632653061
+    successRate: 0.5211267605633803
+    totalOpportunies: 15
+    totalPPA: 6.7912663813654905
+  season: 2002
+  team: West Virginia
+- conference: Big Ten
+  defense:
+    drives: 39
+    explosiveness: 1.0054327713144056
+    fieldPosition:
+      averagePredictedPoints: -1.544
+      averageStart: 68.7
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.483050847457627
+    lineYardsTotal: 293
+    openFieldYards: 0.559322033898305
+    openFieldYardsTotal: 66
+    passingDowns:
+      explosiveness: 1.7736833041320725
+      ppa: 0.03859866299053675
+      rate: 0.3553299492385787
+      successRate: 0.2571428571428571
+      totalPPA: 10.629859887048616
+    passingPlays:
+      explosiveness: 1.4084814616730477
+      ppa: 0.14561451900066597
+      rate: 0.37055837563451777
+      successRate: 0.4246575342465753
+    plays: 197
+    pointsPerOpportunity: -0.4666666666666667
+    powerSuccess: 0.6666666666666666
+    ppa: -0.022339200131807523
+    rushingPlays:
+      explosiveness: 0.6766298923376186
+      ppa: -0.11669207171395142
+      rate: 0.5989847715736041
+      successRate: 0.3220338983050847
+      totalPPA: -13.769664462246268
+    secondLevelYards: 0.6864406779661016
+    secondLevelYardsTotal: 81
+    standardDowns:
+      explosiveness: 0.734285524437582
+      ppa: -0.05592699870317838
+      rate: 0.6446700507614214
+      successRate: 0.4015748031496063
+    stuffRate: 0.2711864406779661
+    successRate: 0.350253807106599
+    totalOpportunies: 30
+    totalPPA: -4.400822425966082
+  offense:
+    drives: 37
+    explosiveness: 0.9509763572960375
+    fieldPosition:
+      averagePredictedPoints: 1.331
+      averageStart: 70.9
+    havoc:
+      db: null
+      frontSeven: null
+      total: null
+    lineYards: 2.5917355371900825
+    lineYardsTotal: 314
+    openFieldYards: 0.4132231404958678
+    openFieldYardsTotal: 50
+    passingDowns:
+      explosiveness: 1.7909363473071256
+      ppa: -0.189576575156679
+      rate: 0.3333333333333333
+      successRate: 0.26865671641791045
+    passingPlays:
+      explosiveness: 1.4361449583906347
+      ppa: -0.03904016956473467
+      rate: 0.3482587064676617
+      successRate: 0.4142857142857143
+      totalPPA: -2.732811869531427
+    plays: 201
+    pointsPerOpportunity: -0.21875
+    powerSuccess: 0.8888888888888888
+    ppa: -0.10128804400695983
+    rushingPlays:
+      explosiveness: 0.6695785686611709
+      ppa: -0.07539315472706096
+      rate: 0.6019900497512438
+      successRate: 0.4132231404958678
+      totalPPA: -9.122571721974376
+    secondLevelYards: 1.1074380165289257
+    secondLevelYardsTotal: 134
+    standardDowns:
+      explosiveness: 0.7031193110632573
+      ppa: -0.05714377843210024
+      rate: 0.6666666666666666
+      successRate: 0.4552238805970149
+    stuffRate: 0.2396694214876033
+    successRate: 0.39303482587064675
+    totalOpportunies: 32
+    totalPPA: -20.358896845398927
+  season: 2002
+  team: Wisconsin

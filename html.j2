@@ -1,0 +1,175 @@
+{%- include 'datatable_header.j2' %}
+<h1>{{ season }} NCAA Football Statistics</h1>
+<table id = "datatable">
+<thead>
+  <tr>
+    <th>Conference</th>
+    <th>Team</th>
+    <th>Defense Drives</th>
+    <th>Defense Explosiveness</th>
+    <th>Defense Field Position Average Predicted Points</th>
+    <th>Defense Field Position Average Start</th>
+    <th>Defense Havoc DB</th>
+    <th>Defense Havoc Front Seven</th>
+    <th>Defense Havoc Total</th>
+    <th>Defense Line Yards</th>
+    <th>Defense Line Yards Total</th>
+    <th>Defense Open Field Yards</th>
+    <th>Defense Open Field Yards Total</th>
+    <th>Defense Passing Downs Explosiveness</th>
+    <th>Defense Passing Downs PPA</th>
+    <th>Defense Passing Downs Rate</th>
+    <th>Defense Passing Downs Success Rate</th>
+    <th>Defense Passing Downs Total PPA</th>
+    <th>Defense Passing Plays Explosiveness</th>
+    <th>Defense Passing Plays PPA</th>
+    <th>Defense Passing Plays Rate</th>
+    <th>Defense Passing Plays Success Rate</th>
+    <th>Defense Plays</th>
+    <th>Defense Points Per Opportunity</th>
+    <th>Defense Power Success</th>
+    <th>Defense PPA</th>
+    <th>Defense Rushing Plays Explosiveness</th>
+    <th>Defense Rushing Plays PPA</th>
+    <th>Defense Rushing Plays Rate</th>
+    <th>Defense Rushing Plays Success Rate</th>
+    <th>Defense Rushing Plays Total PPA</th>
+    <th>Defense Second Level Yards</th>
+    <th>Defense Second Level Yards Total</th>
+    <th>Defense Standard Downs Explosiveness</th>
+    <th>Defense Standard Downs PPA</th>
+    <th>Defense Standard Downs Rate</th>
+    <th>Defense Standard Downs Success Rate</th>
+    <th>Defense Stuff Rate</th>
+    <th>Defense Success Rate</th>
+    <th>Defense Total Opportunies</th>
+    <th>Defense Total PPA</th>
+    <th>Offense Drives</th>
+    <th>Offense Explosiveness</th>
+    <th>Offense Field Position Average Predicted Points</th>
+    <th>Offense Field Position Average Start</th>
+    <th>Offense Havoc DB</th>
+    <th>Offense Havoc Front Seven</th>
+    <th>Offense Havoc Total</th>
+    <th>Offense Line Yards</th>
+    <th>Offense Line Yards Total</th>
+    <th>Offense Open Field Yards</th>
+    <th>Offense Open Field Yards Total</th>
+    <th>Offense Passing Downs Explosiveness</th>
+    <th>Offense Passing Downs PPA</th>
+    <th>Offense Passing Downs Rate</th>
+    <th>Offense Passing Downs Success Rate</th>
+    <th>Offense Passing Plays Explosiveness</th>
+    <th>Offense Passing Plays PPA</th>
+    <th>Offense Passing Plays Rate</th>
+    <th>Offense Passing Plays Success Rate</th>
+    <th>Offense Passing Plays Total PPA</th>
+    <th>Offense Plays</th>
+    <th>Offense Points Per Opportunity</th>
+    <th>Offense Power Success</th>
+    <th>Offense PPA</th>
+    <th>Offense Rushing Plays Explosiveness</th>
+    <th>Offense Rushing Plays PPA</th>
+    <th>Offense Rushing Plays Rate</th>
+    <th>Offense Rushing Plays Success Rate</th>
+    <th>Offense Rushing Plays Total PPA</th>
+    <th>Offense Second Level Yards</th>
+    <th>Offense Second Level Yards Total</th>
+    <th>Offense Standard Downs Explosiveness</th>
+    <th>Offense Standard Downs PPA</th>
+    <th>Offense Standard Downs Rate</th>
+    <th>Offense Standard Downs Success Rate</th>
+    <th>Offense Stuff Rate</th>
+    <th>Offense Success Rate</th>
+    <th>Offense Total Opportunies</th>
+    <th>Offense Total PPA</th>
+  </tr>
+</thead>
+<tbody>
+{%- for team in data_to_template %}
+    <tr>
+    <td>{{ team.conference }}</td>
+    <td>{{ team.team }}</td>
+    <td>{{ team.defense.drives }}</td>
+    <td>{{ team.defense.explosiveness }}</td>
+    <td>{{ team.defense.fieldPosition.averagePredictedPoints }}</td>
+    <td>{{ team.defense.fieldPosition.averageStart }}</td>
+    <td>{{ team.defense.havoc.db}}</td>
+    <td>{{ team.defense.havoc.frontSeven }}</td>
+    <td>{{ team.defense.havoc.total }}</td>
+    <td>{{ team.defense.lineYards }}</td>
+    <td>{{ team.defense.lineYardsTotal }}</td>
+    <td>{{ team.defense.openFieldYards }}</td>
+    <td>{{ team.defense.openFieldYardsTotal }}</td>
+    <td>{{ team.defense.passingDowns.explosiveness }}</td>
+    <td>{{ team.defense.passingDowns.ppa }}</td>
+    <td>{{ team.defense.passingDowns.rate }}</td>
+    <td>{{ team.defense.passingDowns.successRate }}</td>
+    <td>{{ team.defense.passingDowns.totalPPA }}</td>
+    <td>{{ team.defense.passingPlays.explosiveness }}</td>
+    <td>{{ team.defense.passingPlays.ppa }}</td>
+    <td>{{ team.defense.passingPlays.rate }}</td>
+    <td>{{ team.defense.passingPlays.successRate }}</td>
+    <td>{{ team.defense.plays }}</td>
+    <td>{{ team.defense.pointsPerOpportunity }}</td>
+    <td>{{ team.defense.powerSuccess }}</td>
+    <td>{{ team.defense.ppa }}</td>
+    <td>{{ team.defense.rushingPlays.explosiveness }}</td>
+    <td>{{ team.defense.rushingPlays.ppa }}</td>
+    <td>{{ team.defense.rushingPlays.rate }}</td>
+    <td>{{ team.defense.rushingPlays.successRate }}</td>
+    <td>{{ team.defense.rushingPlays.totalPPA }}</td>
+    <td>{{ team.defense.secondLevelYards }}</td>
+    <td>{{ team.defense.secondLevelYardsTotal }}</td>
+    <td>{{ team.defense.standardDowns.explosiveness }}</td>
+    <td>{{ team.defense.standardDowns.ppa }}</td>
+    <td>{{ team.defense.standardDowns.rate }}</td>
+    <td>{{ team.defense.standardDowns.successRate }}</td>
+    <td>{{ team.defense.stuffRate }}</td>
+    <td>{{ team.defense.successRate }}</td>
+    <td>{{ team.defense.totalOpportunies }}</td>
+    <td>{{ team.defense.totalPPA}}</td>
+    <td>{{ team.offense.drives }}</td>
+    <td>{{ team.offense.explosiveness }}</td>
+    <td>{{ team.offense.fieldPosition.averagePredictedPoints }}</td>
+    <td>{{ team.offense.fieldPosition.averageStart }}</td>
+    <td>{{ team.offense.havoc.db }}</td>
+    <td>{{ team.offense.havoc.frontSeven }}</td>
+    <td>{{ team.offense.havoc.total }}</td>
+    <td>{{ team.offense.lineYards }}</td>
+    <td>{{ team.offense.lineYardsTotal }}</td>
+    <td>{{ team.offense.openFieldYards }}</td>
+    <td>{{ team.offense.openFieldYardsTotal }}</td>
+    <td>{{ team.offense.passingDowns.explosiveness }}</td>
+    <td>{{ team.offense.passingDowns.ppa }}</td>
+    <td>{{ team.offense.passingDowns.rate }}</td>
+    <td>{{ team.offense.passingDowns.successRate }}</td>
+    <td>{{ team.offense.passingPlays.explosiveness }}</td>
+    <td>{{ team.offense.passingPlays.ppa }}</td>
+    <td>{{ team.offense.passingPlays.rate }}</td>
+    <td>{{ team.offense.passingPlays.successRate }}</td>
+    <td>{{ team.offense.passingPlays.totalPPA }}</td>
+    <td>{{ team.offense.plays }}</td>
+    <td>{{ team.offense.pointsPerOpportunity }}</td>
+    <td>{{ team.offense.powerSuccess }}</td>
+    <td>{{ team.offense.ppa }}</td>
+    <td>{{ team.offense.rushingPlays.explosiveness}} </td>
+    <td>{{ team.offense.rushingPlays.ppa }}</td>
+    <td>{{ team.offense.rushingPlays.rate }}</td>
+    <td>{{ team.offense.rushingPlays.successRate }}</td>
+    <td>{{ team.offense.rushingPlays.totalPPA }}</td>
+    <td>{{ team.offense.secondLevelYards }}</td>
+    <td>{{ team.offense.secondLevelYardsTotal }}</td>
+    <td>{{ team.offense.standardDowns.explosiveness }}</td>
+    <td>{{ team.offense.standardDowns.ppa }}</td>
+    <td>{{ team.offense.standardDowns.rate }}</td>
+    <td>{{ team.offense.standardDowns.successRate }}</td>
+    <td>{{ team.offense.stuffRate }}</td>
+    <td>{{ team.offense.successRate }}</td>
+    <td>{{ team.offense.totalOpportunies }}</td>
+    <td>{{ team.offense.totalPPA }}</td>
+    </tr>
+{%- endfor %}
+</tbody>
+</table>
+{%- include 'datatable_footer.j2' %}
