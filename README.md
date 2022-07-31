@@ -1,2 +1,2 @@
 # NCAAPI
-NCAA College Football Stats for 2021
+NCAA College Football Stats from 2001 - 2021
